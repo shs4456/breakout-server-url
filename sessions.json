@@ -14,5 +14,13 @@
     "expires_at": "2026-06-20T16:10:10.187790",
     "ip": "127.0.0.1",
     "client_type": "board"
+  },
+  "F79SP7n5eBLTJ_1N1ThB3Lki550_XKjtqEjW8RQfX7I": {
+    "username": "혜나",
+    "role": "user",
+    "issued_at": "2026-05-21T17:01:16.386184",
+    "expires_at": "2026-06-20T17:01:16.386184",
+    "ip": "127.0.0.1",
+    "client_type": "messenger"
   }
 }
