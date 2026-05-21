@@ -22,13 +22,5 @@
     "expires_at": "2026-06-20T17:01:16.386184",
     "ip": "127.0.0.1",
     "client_type": "messenger"
-  },
-  "_GDPagSVHbJr738D7jFbuH01-Cv-58u7I3mNc5uxW3I": {
-    "username": "김주란",
-    "role": "user",
-    "issued_at": "2026-05-21T20:16:09.168992",
-    "expires_at": "2026-06-20T20:16:09.169494",
-    "ip": "127.0.0.1",
-    "client_type": "board"
   }
 }
