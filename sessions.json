@@ -30,13 +30,5 @@
     "expires_at": "2026-06-20T22:49:17.442437",
     "ip": "127.0.0.1",
     "client_type": "board"
-  },
-  "EfmGd53JMMYuPaqnwLx_n61yKZk9tQgvFyvutwyNTnk": {
-    "username": "임재현",
-    "role": "user",
-    "issued_at": "2026-05-21T23:48:45.700043",
-    "expires_at": "2026-06-20T23:48:45.700043",
-    "ip": "127.0.0.1",
-    "client_type": "messenger"
   }
 }
