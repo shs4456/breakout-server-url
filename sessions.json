@@ -30,13 +30,5 @@
     "expires_at": "2026-06-20T20:17:40.006317",
     "ip": "127.0.0.1",
     "client_type": "board"
-  },
-  "pg2_PV5sx50o_X-7QrL3C1M1qpTzy5Ci_TubUlEUs-8": {
-    "username": "문정훈",
-    "role": "user",
-    "issued_at": "2026-05-21T20:20:37.297360",
-    "expires_at": "2026-06-20T20:20:37.297360",
-    "ip": "127.0.0.1",
-    "client_type": "messenger"
   }
 }
