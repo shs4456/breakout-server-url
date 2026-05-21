@@ -1,12 +1,4 @@
 {
-  "F5WbzHRNiCeF-8kOa5NGyV5c1T3QwAw0AnovmYpf17U": {
-    "username": "성현석",
-    "role": "admin",
-    "issued_at": "2026-05-21T15:48:55.703196",
-    "expires_at": "2026-06-20T15:48:55.703196",
-    "ip": "127.0.0.1",
-    "client_type": "messenger"
-  },
   "aA_eYEZ-OxA1BmQs2wPFSw2To8u-uJrnw3Tu3HQvFNE": {
     "username": "성현석",
     "role": "admin",
@@ -14,5 +6,13 @@
     "expires_at": "2026-06-20T15:49:01.588416",
     "ip": "127.0.0.1",
     "client_type": "board"
+  },
+  "kLgyMQheMzeK5D9dvnJUTTuF0IqNxdAivzFGOqMMOig": {
+    "username": "성현석",
+    "role": "admin",
+    "issued_at": "2026-05-21T16:09:53.464718",
+    "expires_at": "2026-06-20T16:09:53.464718",
+    "ip": "127.0.0.1",
+    "client_type": "messenger"
   }
 }
