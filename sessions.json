@@ -54,5 +54,13 @@
     "expires_at": "2026-06-21T07:41:39.929758",
     "ip": "127.0.0.1",
     "client_type": "board"
+  },
+  "e_9zoz0OE86zPdODffhNndIT6_Sakuq6eduNqtn1O2Q": {
+    "username": "혜나",
+    "role": "user",
+    "issued_at": "2026-05-22T07:52:50.726903",
+    "expires_at": "2026-06-21T07:52:50.726903",
+    "ip": "127.0.0.1",
+    "client_type": "board"
   }
 }
