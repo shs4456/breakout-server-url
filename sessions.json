@@ -22,13 +22,5 @@
     "expires_at": "2026-06-20T17:01:16.386184",
     "ip": "127.0.0.1",
     "client_type": "messenger"
-  },
-  "IfZ_sklB6G0brPzOtDorI1ehKbD3cazGTw8bWuACXqk": {
-    "username": "혜나",
-    "role": "user",
-    "issued_at": "2026-05-21T20:17:40.006317",
-    "expires_at": "2026-06-20T20:17:40.006317",
-    "ip": "127.0.0.1",
-    "client_type": "board"
   }
 }
