@@ -15,14 +15,6 @@
     "ip": "127.0.0.1",
     "client_type": "messenger"
   },
-  "HHPJZUNMWDChIgzwpIz_VeOpOzVN9UeBCqeVoEA_Fk0": {
-    "username": "문정훈",
-    "role": "user",
-    "issued_at": "2026-05-22T07:26:07.198544",
-    "expires_at": "2026-06-21T07:26:07.198544",
-    "ip": "127.0.0.1",
-    "client_type": "board"
-  },
   "qw9V7NkkfHXG4xkqcUrhyIYhncszKPvhVr1Vpd2C_YY": {
     "username": "문정훈",
     "role": "user",
@@ -62,5 +54,13 @@
     "expires_at": "2026-06-21T11:13:09.981549",
     "ip": "127.0.0.1",
     "client_type": "messenger"
+  },
+  "mm8xnYTOXqUrq4qVd_tKt3cx2r7fH0pmIDLgtp6DjiM": {
+    "username": "문정훈",
+    "role": "user",
+    "issued_at": "2026-05-22T14:36:45.914246",
+    "expires_at": "2026-06-21T14:36:45.914246",
+    "ip": "127.0.0.1",
+    "client_type": "board"
   }
 }
