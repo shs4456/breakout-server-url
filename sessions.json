@@ -62,5 +62,13 @@
     "expires_at": "2026-06-21T14:36:45.914246",
     "ip": "127.0.0.1",
     "client_type": "board"
+  },
+  "JC-AUR9vdfVeFlDfkyIlyOZF6vAPlR3Ad4qK0aUP-xU": {
+    "username": "성현석",
+    "role": "admin",
+    "issued_at": "2026-05-22T22:00:09.213339",
+    "expires_at": "2026-06-21T22:00:09.213339",
+    "ip": "127.0.0.1",
+    "client_type": "admin_panel"
   }
 }
