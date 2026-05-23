@@ -43,7 +43,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-05-22T22:00:09.213339",
-    "expires_at": "2027-05-23T10:17:48.746315",
+    "expires_at": "2027-05-23T10:30:48.819716",
     "ip": "127.0.0.1",
     "client_type": "admin_panel"
   },
@@ -67,23 +67,15 @@
     "username": "임재현",
     "role": "user",
     "issued_at": "2026-05-23T10:14:22.629811",
-    "expires_at": "2027-05-23T10:17:53.790851",
+    "expires_at": "2027-05-23T10:30:57.809957",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme"
-  },
-  "XJBgx90c0rhRAORMCbXSWzATqgCUqO_Twh12kupfCCk": {
-    "username": "임재현",
-    "role": "user",
-    "issued_at": "2026-05-23T10:16:20.069266",
-    "expires_at": "2027-05-23T10:17:54.729938",
-    "ip": "127.0.0.1",
-    "client_type": "messenger"
   },
   "jfUJWtPn5n4ZKN2uoTudozwU5KT_taL65kuyoerZdU8": {
     "username": "임재현",
     "role": "user",
     "issued_at": "2026-05-23T10:17:54.898176",
-    "expires_at": "2027-05-23T10:17:54.898176",
+    "expires_at": "2027-05-23T10:30:59.196537",
     "ip": "127.0.0.1",
     "client_type": "board"
   }
