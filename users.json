@@ -55,7 +55,7 @@
     "permissions": {
       "messenger": true,
       "board": true,
-      "hotburger_theme": true
+      "hotburger_theme": false
     }
   },
   "문정훈": {
