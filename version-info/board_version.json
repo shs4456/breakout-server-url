@@ -1,5 +1,5 @@
 {
-  "version": "1.0.22",
+  "version": "1.0.23",
   "setup_url": "https://github.com/shs4456/breakout-server-url/releases/latest/download/HotburgerBoardSetup.exe",
-  "notes": "Auto-uploaded with 5/25 board self-healing patches (NameError fix + timeout(2,4) + raw URL fallback + cache invalidation)"
+  "notes": "5/25 v1.0.23: trigger_themes 30s caching (CPU 28%->normal)"
 }
