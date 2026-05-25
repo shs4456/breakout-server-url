@@ -1,5 +1,5 @@
 {
-  "version": "1.0.23",
+  "version": "1.0.24",
   "setup_url": "https://github.com/shs4456/breakout-server-url/releases/latest/download/HotburgerBoardSetup.exe",
-  "notes": "5/25 v1.0.23: trigger_themes 30s caching (CPU 28%->normal)"
+  "notes": "5/25 v1.0.24: themes merge (naver base + hotburger trigger overlay) - fixes empty theme cells"
 }
