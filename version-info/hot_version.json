@@ -1,5 +1,5 @@
 {
-  "version": "1.0.12",
+  "version": "1.0.13",
   "setup_url": "https://github.com/shs4456/breakout-server-url/releases/latest/download/HotburgerHotSetup.exe",
-  "notes": "Auto-uploaded via BreakoutCenter @ 2026-05-23 07:55:56"
+  "notes": "Auto-uploaded with 5/25 self-healing patches (fallback bound login + 401 token preserve)"
 }
