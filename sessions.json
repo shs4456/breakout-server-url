@@ -11,7 +11,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-05-22T22:00:09.213339",
-    "expires_at": "2027-05-26T07:54:01.251219",
+    "expires_at": "2027-05-26T07:54:31.168142",
     "ip": "127.0.0.1",
     "client_type": "admin_panel"
   },
@@ -19,7 +19,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-05-23T00:42:02.678387",
-    "expires_at": "2027-05-26T07:54:01.781192",
+    "expires_at": "2027-05-26T07:54:29.765792",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme"
   },
@@ -91,23 +91,15 @@
     "username": "이동엽",
     "role": "user",
     "issued_at": "2026-05-26T07:27:30.569899",
-    "expires_at": "2027-05-26T07:54:07.489540",
+    "expires_at": "2027-05-26T07:54:35.015591",
     "ip": "127.0.0.1",
     "client_type": "board"
-  },
-  "gaB5BS_zZLKLFcTLq7Nl68ssV30wP5nxTQ5UOYnOBhg": {
-    "username": "임재현",
-    "role": "user",
-    "issued_at": "2026-05-26T07:31:36.046091",
-    "expires_at": "2027-05-26T07:47:40.383346",
-    "ip": "127.0.0.1",
-    "client_type": "messenger"
   },
   "NlEm-01w1I4X8ehZNg57NaWEVquZ_TT9Qsy9fn2RxoM": {
     "username": "문정훈",
     "role": "user",
     "issued_at": "2026-05-26T07:46:46.295275",
-    "expires_at": "2027-05-26T07:54:01.650220",
+    "expires_at": "2027-05-26T07:54:29.638910",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme"
   },
@@ -115,7 +107,7 @@
     "username": "문정훈",
     "role": "user",
     "issued_at": "2026-05-26T07:47:50.193094",
-    "expires_at": "2027-05-26T07:54:07.533953",
+    "expires_at": "2027-05-26T07:54:34.993695",
     "ip": "127.0.0.1",
     "client_type": "board"
   },
@@ -123,8 +115,16 @@
     "username": "임재현",
     "role": "user",
     "issued_at": "2026-05-26T07:54:07.684553",
-    "expires_at": "2027-05-26T07:54:07.684553",
+    "expires_at": "2027-05-26T07:54:34.928843",
     "ip": "127.0.0.1",
     "client_type": "board"
+  },
+  "uRud0rcukw8LMEbk6Gissmx5EFTzgcPOn1AMK6BwfaY": {
+    "username": "임재현",
+    "role": "user",
+    "issued_at": "2026-05-26T07:54:35.131763",
+    "expires_at": "2027-05-26T07:54:35.131763",
+    "ip": "127.0.0.1",
+    "client_type": "messenger"
   }
 }
