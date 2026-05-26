@@ -11,7 +11,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-05-22T22:00:09.213339",
-    "expires_at": "2027-05-26T21:51:49.025893",
+    "expires_at": "2027-05-26T23:02:34.491547",
     "ip": "127.0.0.1",
     "client_type": "admin_panel"
   },
@@ -35,7 +35,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-05-25T18:36:32.859800",
-    "expires_at": "2027-05-25T20:56:20.434516",
+    "expires_at": "2027-05-26T23:02:40.122553",
     "ip": "127.0.0.1",
     "client_type": "messenger"
   },
@@ -51,7 +51,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-05-25T20:56:20.464555",
-    "expires_at": "2027-05-25T20:56:20.464555",
+    "expires_at": "2027-05-26T23:02:40.034433",
     "ip": "127.0.0.1",
     "client_type": "board"
   },
@@ -99,7 +99,7 @@
     "username": "혜나",
     "role": "user",
     "issued_at": "2026-05-26T07:58:13.126047",
-    "expires_at": "2027-05-26T21:51:46.405253",
+    "expires_at": "2027-05-26T23:02:35.378136",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme"
   },
@@ -110,14 +110,6 @@
     "expires_at": "2027-05-26T07:58:34.868467",
     "ip": "127.0.0.1",
     "client_type": "board"
-  },
-  "soz3D91Z7vUu0EjE0S7MjT473qhiD11tgHJtc0FIEvg": {
-    "username": "성현석",
-    "role": "admin",
-    "issued_at": "2026-05-26T16:11:58.529269",
-    "expires_at": "2027-05-26T16:11:58.529269",
-    "ip": "127.0.0.1",
-    "client_type": "hotburger_theme"
   },
   "eYmVLHeSi2mqG6HqatW0uw6TeymIuFo3kit3pHV6ymA": {
     "username": "이동엽",
@@ -131,7 +123,15 @@
     "username": "이동엽",
     "role": "user",
     "issued_at": "2026-05-26T21:51:52.086386",
-    "expires_at": "2027-05-26T21:51:52.086386",
+    "expires_at": "2027-05-26T23:02:35.311698",
+    "ip": "127.0.0.1",
+    "client_type": "hotburger_theme"
+  },
+  "5TvJRrNlrvruLhkfbvYAGgfMwNP3m1xbh7s7pfyw4AQ": {
+    "username": "성현석",
+    "role": "admin",
+    "issued_at": "2026-05-26T23:02:40.235820",
+    "expires_at": "2027-05-26T23:02:40.235820",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme"
   }
