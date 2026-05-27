@@ -11,7 +11,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-05-22T22:00:09.213339",
-    "expires_at": "2027-05-27T22:27:43.013267",
+    "expires_at": "2027-05-27T22:29:03.113595",
     "ip": "127.0.0.1",
     "client_type": "admin_panel"
   },
@@ -22,22 +22,6 @@
     "expires_at": "2027-05-23T15:42:33.171735",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme"
-  },
-  "_3sJ3PyTxVDZSGDY5k0jrJFIY0sQTezlyckSHKsZeGI": {
-    "username": "성현석",
-    "role": "admin",
-    "issued_at": "2026-05-25T11:27:05.053087",
-    "expires_at": "2027-05-25T11:27:05.053087",
-    "ip": "127.0.0.1",
-    "client_type": "messenger"
-  },
-  "hzAgJ4PNPmSsdf4O6LYJ5ULShNSzlZW0xO8B5KmtdHE": {
-    "username": "성현석",
-    "role": "admin",
-    "issued_at": "2026-05-25T18:36:32.859800",
-    "expires_at": "2027-05-27T22:24:38.669539",
-    "ip": "127.0.0.1",
-    "client_type": "messenger"
   },
   "kAIn66Fg0wmcQ-TcBGIGKpZu5LOFPovsZh0itCzcFac": {
     "username": "이동엽",
@@ -59,7 +43,7 @@
     "username": "이동엽",
     "role": "user",
     "issued_at": "2026-05-26T21:51:52.086386",
-    "expires_at": "2027-05-27T22:27:43.295205",
+    "expires_at": "2027-05-27T22:29:07.283998",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme"
   },
@@ -83,7 +67,7 @@
     "username": "이동엽",
     "role": "user",
     "issued_at": "2026-05-27T09:02:43.414977",
-    "expires_at": "2027-05-27T22:27:47.093781",
+    "expires_at": "2027-05-27T22:29:10.294128",
     "ip": "127.0.0.1",
     "client_type": "board"
   },
@@ -99,8 +83,16 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-05-27T22:27:47.107426",
-    "expires_at": "2027-05-27T22:27:47.107426",
+    "expires_at": "2027-05-27T22:27:50.680599",
     "ip": "127.0.0.1",
     "client_type": "board"
+  },
+  "ccksCqFqxubxIsZrMjNsCaRwlOFSPmV9nE7qXCGALuw": {
+    "username": "성현석",
+    "role": "admin",
+    "issued_at": "2026-05-27T22:29:10.423245",
+    "expires_at": "2027-05-27T22:29:10.423245",
+    "ip": "127.0.0.1",
+    "client_type": "messenger"
   }
 }
