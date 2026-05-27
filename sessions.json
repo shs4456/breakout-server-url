@@ -11,7 +11,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-05-22T22:00:09.213339",
-    "expires_at": "2027-05-27T14:45:33.014041",
+    "expires_at": "2027-05-27T15:06:03.122730",
     "ip": "127.0.0.1",
     "client_type": "admin_panel"
   },
@@ -67,7 +67,7 @@
     "username": "이동엽",
     "role": "user",
     "issued_at": "2026-05-26T21:51:52.086386",
-    "expires_at": "2027-05-27T14:45:29.168004",
+    "expires_at": "2027-05-27T15:06:01.184927",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme"
   },
@@ -79,19 +79,11 @@
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme"
   },
-  "Ba8s87Fy2Z4Xuy3HV4CKp5VEUdyWMx6Wkqw14Co1ggM": {
-    "username": "문정훈",
-    "role": "user",
-    "issued_at": "2026-05-27T07:47:35.613202",
-    "expires_at": "2027-05-27T14:45:35.914656",
-    "ip": "127.0.0.1",
-    "client_type": "board"
-  },
   "oqFNJjAzf8YeUy8Niqu1AxjkjGHRy3f268Bb7eApTO0": {
     "username": "임재현",
     "role": "user",
     "issued_at": "2026-05-27T07:49:34.912386",
-    "expires_at": "2027-05-27T14:45:35.785844",
+    "expires_at": "2027-05-27T15:06:03.934260",
     "ip": "127.0.0.1",
     "client_type": "board"
   },
@@ -107,7 +99,7 @@
     "username": "이동엽",
     "role": "user",
     "issued_at": "2026-05-27T09:02:43.414977",
-    "expires_at": "2027-05-27T14:45:35.796986",
+    "expires_at": "2027-05-27T15:06:03.907539",
     "ip": "127.0.0.1",
     "client_type": "board"
   },
@@ -115,7 +107,7 @@
     "username": "임재현",
     "role": "user",
     "issued_at": "2026-05-27T11:15:39.894318",
-    "expires_at": "2027-05-27T14:45:34.634100",
+    "expires_at": "2027-05-27T15:05:59.674262",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme"
   },
@@ -123,7 +115,7 @@
     "username": "혜나",
     "role": "user",
     "issued_at": "2026-05-27T14:16:39.807918",
-    "expires_at": "2027-05-27T14:45:35.843754",
+    "expires_at": "2027-05-27T15:06:03.817803",
     "ip": "127.0.0.1",
     "client_type": "board"
   }
