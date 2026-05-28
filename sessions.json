@@ -11,7 +11,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-05-22T22:00:09.213339",
-    "expires_at": "2027-05-29T00:02:05.389155",
+    "expires_at": "2027-05-29T00:02:41.399775",
     "ip": "127.0.0.1",
     "client_type": "admin_panel"
   },
@@ -91,7 +91,7 @@
     "username": "최우승",
     "role": "user",
     "issued_at": "2026-05-28T22:14:42.435226",
-    "expires_at": "2027-05-29T00:02:39.058846",
+    "expires_at": "2027-05-29T00:02:43.856235",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme"
   },
@@ -99,7 +99,7 @@
     "username": "최우승",
     "role": "user",
     "issued_at": "2026-05-28T22:18:45.414372",
-    "expires_at": "2027-05-29T00:02:40.056467",
+    "expires_at": "2027-05-29T00:02:44.129004",
     "ip": "127.0.0.1",
     "client_type": "board"
   },
@@ -107,7 +107,7 @@
     "username": "최우승",
     "role": "user",
     "issued_at": "2026-05-28T22:19:08.602200",
-    "expires_at": "2027-05-29T00:02:39.990121",
+    "expires_at": "2027-05-29T00:02:44.121018",
     "ip": "127.0.0.1",
     "client_type": "messenger"
   },
@@ -115,7 +115,7 @@
     "username": "임재현",
     "role": "user",
     "issued_at": "2026-05-28T22:19:45.471197",
-    "expires_at": "2027-05-29T00:02:37.424060",
+    "expires_at": "2027-05-29T00:02:41.774361",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme"
   },
@@ -123,7 +123,7 @@
     "username": "김재형",
     "role": "user",
     "issued_at": "2026-05-28T22:58:52.265377",
-    "expires_at": "2027-05-29T00:02:35.763855",
+    "expires_at": "2027-05-29T00:02:43.782723",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme"
   },
@@ -143,11 +143,11 @@
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme"
   },
-  "ifJiXoT-SlTYj74-obPK3diMNbvTIDh6q2UJWMFJbkY": {
+  "G9Q5fpidW_Ih4QWYmXY4GpocinlpM4ccpMiBdJj0M88": {
     "username": "김재형",
     "role": "user",
-    "issued_at": "2026-05-29T00:02:40.102338",
-    "expires_at": "2027-05-29T00:02:40.102338",
+    "issued_at": "2026-05-29T00:02:44.305838",
+    "expires_at": "2027-05-29T00:02:44.305838",
     "ip": "127.0.0.1",
     "client_type": "board"
   }
