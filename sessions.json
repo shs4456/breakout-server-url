@@ -11,7 +11,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-05-22T22:00:09.213339",
-    "expires_at": "2027-05-28T15:50:23.409527",
+    "expires_at": "2027-05-28T15:50:43.428164",
     "ip": "127.0.0.1",
     "client_type": "admin_panel"
   },
@@ -39,14 +39,6 @@
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme"
   },
-  "ccksCqFqxubxIsZrMjNsCaRwlOFSPmV9nE7qXCGALuw": {
-    "username": "성현석",
-    "role": "admin",
-    "issued_at": "2026-05-27T22:29:10.423245",
-    "expires_at": "2027-05-27T22:29:14.737097",
-    "ip": "127.0.0.1",
-    "client_type": "messenger"
-  },
   "H1y5fk49oIyblYKmn3xdcmevKEU8Sv6e-tkcUu-Iv1I": {
     "username": "성현석",
     "role": "admin",
@@ -67,7 +59,7 @@
     "username": "임재현",
     "role": "user",
     "issued_at": "2026-05-28T09:05:09.640106",
-    "expires_at": "2027-05-28T15:50:23.627108",
+    "expires_at": "2027-05-28T15:50:45.257995",
     "ip": "127.0.0.1",
     "client_type": "messenger"
   },
@@ -75,7 +67,7 @@
     "username": "혜나",
     "role": "user",
     "issued_at": "2026-05-28T09:07:30.912213",
-    "expires_at": "2027-05-28T15:50:23.427318",
+    "expires_at": "2027-05-28T15:50:45.295547",
     "ip": "127.0.0.1",
     "client_type": "board"
   },
@@ -99,7 +91,7 @@
     "username": "혜나",
     "role": "user",
     "issued_at": "2026-05-28T15:39:36.152818",
-    "expires_at": "2027-05-28T15:50:21.381582",
+    "expires_at": "2027-05-28T15:50:42.404525",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme"
   },
@@ -107,8 +99,16 @@
     "username": "임재현",
     "role": "user",
     "issued_at": "2026-05-28T15:50:23.656520",
-    "expires_at": "2027-05-28T15:50:23.656520",
+    "expires_at": "2027-05-28T15:50:32.249632",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme"
+  },
+  "Myv06KdRyj6c_ijv2PYd8uNJ5csRMKPmYV3b7HDFFkY": {
+    "username": "성현석",
+    "role": "admin",
+    "issued_at": "2026-05-28T15:50:45.389241",
+    "expires_at": "2027-05-28T15:50:45.389241",
+    "ip": "127.0.0.1",
+    "client_type": "messenger"
   }
 }
