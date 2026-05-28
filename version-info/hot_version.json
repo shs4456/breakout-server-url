@@ -1,5 +1,5 @@
 {
-    "setup_url":  "https://github.com/shs4456/breakout-server-url/releases/latest/download/HotburgerHotSetup.exe",
-    "version":  "1.0.22",
-    "notes":  "v1.0.22 (2026-05-28) — DNS/Connection 실패 시 URL 자동 재조회 + 1회 재시도. cloudflared 터널 URL 변경 시 클라가 옛 URL에 묶이던 문제 해결."
+  "version": "1.0.24",
+  "setup_url": "https://github.com/shs4456/breakout-server-url/releases/latest/download/HotburgerHotSetup.exe",
+  "notes": "Auto-uploaded via BreakoutCenter @ 2026-05-28 14:59:14"
 }
