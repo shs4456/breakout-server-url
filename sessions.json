@@ -11,7 +11,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-05-22T22:00:09.213339",
-    "expires_at": "2027-05-28T22:59:45.325794",
+    "expires_at": "2027-05-28T22:59:57.939069",
     "ip": "127.0.0.1",
     "client_type": "admin_panel"
   },
@@ -91,7 +91,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-05-28T19:25:05.515948",
-    "expires_at": "2027-05-28T22:59:51.862944",
+    "expires_at": "2027-05-28T22:59:54.928904",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme"
   },
@@ -107,7 +107,7 @@
     "username": "최우승",
     "role": "user",
     "issued_at": "2026-05-28T22:18:45.414372",
-    "expires_at": "2027-05-28T22:59:54.145484",
+    "expires_at": "2027-05-28T22:59:58.508934",
     "ip": "127.0.0.1",
     "client_type": "board"
   },
@@ -115,7 +115,7 @@
     "username": "최우승",
     "role": "user",
     "issued_at": "2026-05-28T22:19:08.602200",
-    "expires_at": "2027-05-28T22:59:54.137948",
+    "expires_at": "2027-05-28T22:59:58.481027",
     "ip": "127.0.0.1",
     "client_type": "messenger"
   },
@@ -123,7 +123,7 @@
     "username": "임재현",
     "role": "user",
     "issued_at": "2026-05-28T22:19:45.471197",
-    "expires_at": "2027-05-28T22:59:48.251818",
+    "expires_at": "2027-05-28T22:59:57.302294",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme"
   },
@@ -131,7 +131,7 @@
     "username": "김재형",
     "role": "user",
     "issued_at": "2026-05-28T22:58:40.034606",
-    "expires_at": "2027-05-28T22:59:53.961780",
+    "expires_at": "2027-05-28T22:59:58.351587",
     "ip": "127.0.0.1",
     "client_type": "board"
   },
@@ -139,15 +139,15 @@
     "username": "김재형",
     "role": "user",
     "issued_at": "2026-05-28T22:58:52.265377",
-    "expires_at": "2027-05-28T22:59:53.743989",
+    "expires_at": "2027-05-28T22:59:56.730876",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme"
   },
-  "leI_XdTRhLdpnNof645dXU30vCMxToOjFSq0CuAjo-s": {
+  "WFhea_c77AwqmgjOTzOK5ZiVMb6VzPElRRe8ASgRkYA": {
     "username": "김재형",
     "role": "user",
-    "issued_at": "2026-05-28T22:59:54.165770",
-    "expires_at": "2027-05-28T22:59:54.165770",
+    "issued_at": "2026-05-28T22:59:58.527720",
+    "expires_at": "2027-05-28T22:59:58.527720",
     "ip": "127.0.0.1",
     "client_type": "messenger"
   }
