@@ -11,7 +11,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-05-22T22:00:09.213339",
-    "expires_at": "2027-05-28T15:50:43.428164",
+    "expires_at": "2027-05-28T15:51:04.366412",
     "ip": "127.0.0.1",
     "client_type": "admin_panel"
   },
@@ -39,14 +39,6 @@
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme"
   },
-  "H1y5fk49oIyblYKmn3xdcmevKEU8Sv6e-tkcUu-Iv1I": {
-    "username": "성현석",
-    "role": "admin",
-    "issued_at": "2026-05-28T07:54:47.770937",
-    "expires_at": "2027-05-28T07:54:57.060432",
-    "ip": "127.0.0.1",
-    "client_type": "board"
-  },
   "nJ48tp-7XcLEzd4BO4sRHNpgkLLt20y5r_5IKvqiQLc": {
     "username": "김주란",
     "role": "user",
@@ -59,7 +51,7 @@
     "username": "임재현",
     "role": "user",
     "issued_at": "2026-05-28T09:05:09.640106",
-    "expires_at": "2027-05-28T15:50:45.257995",
+    "expires_at": "2027-05-28T15:51:07.416351",
     "ip": "127.0.0.1",
     "client_type": "messenger"
   },
@@ -67,7 +59,7 @@
     "username": "혜나",
     "role": "user",
     "issued_at": "2026-05-28T09:07:30.912213",
-    "expires_at": "2027-05-28T15:50:45.295547",
+    "expires_at": "2027-05-28T15:51:07.491524",
     "ip": "127.0.0.1",
     "client_type": "board"
   },
@@ -91,7 +83,7 @@
     "username": "혜나",
     "role": "user",
     "issued_at": "2026-05-28T15:39:36.152818",
-    "expires_at": "2027-05-28T15:50:42.404525",
+    "expires_at": "2027-05-28T15:51:07.379859",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme"
   },
@@ -107,8 +99,16 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-05-28T15:50:45.389241",
-    "expires_at": "2027-05-28T15:50:45.389241",
+    "expires_at": "2027-05-28T15:50:50.242794",
     "ip": "127.0.0.1",
     "client_type": "messenger"
+  },
+  "NfyOIQKNiEDKlBlcMmEO3Y62__ituOuHEsGshwLB68I": {
+    "username": "성현석",
+    "role": "admin",
+    "issued_at": "2026-05-28T15:51:07.611804",
+    "expires_at": "2027-05-28T15:51:07.611804",
+    "ip": "127.0.0.1",
+    "client_type": "board"
   }
 }
