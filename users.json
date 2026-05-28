@@ -96,5 +96,18 @@
       "board": true,
       "hotburger_theme": true
     }
+  },
+  "최우승": {
+    "password_hash": "$2b$12$OiTAd2k9jw2NtcpSe1w9bevcuhmRnwyzUl2nCDheU/g4NXIBDEpgC",
+    "phone": "01099761567",
+    "role": "user",
+    "expires_at": "2026-08-26",
+    "status": "active",
+    "created_at": "2026-05-28T22:14:04.886231",
+    "permissions": {
+      "messenger": true,
+      "board": false,
+      "hotburger_theme": false
+    }
   }
 }
