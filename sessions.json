@@ -11,7 +11,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-05-22T22:00:09.213339",
-    "expires_at": "2027-05-28T15:26:11.892423",
+    "expires_at": "2027-05-28T15:29:12.067309",
     "ip": "127.0.0.1",
     "client_type": "admin_panel"
   },
@@ -55,14 +55,6 @@
     "ip": "127.0.0.1",
     "client_type": "board"
   },
-  "DID3WNJ2iPitqGZ66n4I3ikj6oAE6pyIeti7ogzfKWQ": {
-    "username": "임재현",
-    "role": "user",
-    "issued_at": "2026-05-28T07:55:01.505988",
-    "expires_at": "2027-05-28T15:21:53.667159",
-    "ip": "127.0.0.1",
-    "client_type": "hotburger_theme"
-  },
   "nJ48tp-7XcLEzd4BO4sRHNpgkLLt20y5r_5IKvqiQLc": {
     "username": "김주란",
     "role": "user",
@@ -75,7 +67,7 @@
     "username": "혜나",
     "role": "user",
     "issued_at": "2026-05-28T08:30:45.480860",
-    "expires_at": "2027-05-28T15:26:10.388803",
+    "expires_at": "2027-05-28T15:29:12.387587",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme"
   },
@@ -83,7 +75,7 @@
     "username": "임재현",
     "role": "user",
     "issued_at": "2026-05-28T09:05:09.640106",
-    "expires_at": "2027-05-28T15:26:15.095817",
+    "expires_at": "2027-05-28T15:29:15.212909",
     "ip": "127.0.0.1",
     "client_type": "messenger"
   },
@@ -91,7 +83,7 @@
     "username": "혜나",
     "role": "user",
     "issued_at": "2026-05-28T09:07:30.912213",
-    "expires_at": "2027-05-28T15:26:14.974892",
+    "expires_at": "2027-05-28T15:29:15.301053",
     "ip": "127.0.0.1",
     "client_type": "board"
   },
@@ -107,7 +99,15 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-05-28T15:26:15.193907",
-    "expires_at": "2027-05-28T15:26:15.193907",
+    "expires_at": "2027-05-28T15:26:23.489400",
+    "ip": "127.0.0.1",
+    "client_type": "hotburger_theme"
+  },
+  "hL9xAsfm7r_Db0Ph3yEMKRXYPp5_d-4_TWVIsl0pwrw": {
+    "username": "임재현",
+    "role": "user",
+    "issued_at": "2026-05-28T15:29:15.393110",
+    "expires_at": "2027-05-28T15:29:15.393110",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme"
   }
