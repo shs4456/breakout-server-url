@@ -11,7 +11,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-05-22T22:00:09.213339",
-    "expires_at": "2027-06-01T07:57:21.389968",
+    "expires_at": "2027-06-01T08:05:51.389577",
     "ip": "127.0.0.1",
     "client_type": "admin_panel"
   },
@@ -71,14 +71,6 @@
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme"
   },
-  "vGH-B-c1CzfwXyPp6c-_tC-r4kTPtFgsLtM6PqlyQ6U": {
-    "username": "임재현",
-    "role": "user",
-    "issued_at": "2026-05-29T14:55:46.251528",
-    "expires_at": "2027-05-29T16:18:44.612405",
-    "ip": "127.0.0.1",
-    "client_type": "hotburger_theme"
-  },
   "2ZmTAmAosPpwAgo_n43w0Ezdug_XYO8q8S2zJV_-Efk": {
     "username": "성현석",
     "role": "admin",
@@ -91,7 +83,7 @@
     "username": "문정훈",
     "role": "user",
     "issued_at": "2026-06-01T07:46:32.725525",
-    "expires_at": "2027-06-01T07:57:25.179641",
+    "expires_at": "2027-06-01T08:05:54.155823",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme"
   },
@@ -99,7 +91,7 @@
     "username": "문정훈",
     "role": "user",
     "issued_at": "2026-06-01T07:49:50.597347",
-    "expires_at": "2027-06-01T07:57:25.463604",
+    "expires_at": "2027-06-01T08:05:55.037480",
     "ip": "127.0.0.1",
     "client_type": "messenger"
   },
@@ -115,7 +107,7 @@
     "username": "혜나",
     "role": "user",
     "issued_at": "2026-06-01T07:57:08.866182",
-    "expires_at": "2027-06-01T07:57:23.956890",
+    "expires_at": "2027-06-01T08:05:54.946171",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme"
   },
@@ -123,8 +115,16 @@
     "username": "혜나",
     "role": "user",
     "issued_at": "2026-06-01T07:57:25.673185",
-    "expires_at": "2027-06-01T07:57:25.673185",
+    "expires_at": "2027-06-01T08:05:54.853262",
     "ip": "127.0.0.1",
     "client_type": "board"
+  },
+  "68ucpXQhw1RoP33V3kKue37kLXNlXXsog6_04k2XBng": {
+    "username": "임재현",
+    "role": "user",
+    "issued_at": "2026-06-01T08:05:55.111470",
+    "expires_at": "2027-06-01T08:05:55.111470",
+    "ip": "127.0.0.1",
+    "client_type": "hotburger_theme"
   }
 }
