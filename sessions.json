@@ -11,7 +11,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-05-22T22:00:09.213339",
-    "expires_at": "2027-06-02T07:35:20.423542",
+    "expires_at": "2027-06-02T07:36:20.437472",
     "ip": "127.0.0.1",
     "client_type": "admin_panel"
   },
@@ -139,8 +139,16 @@
     "username": "임재현",
     "role": "user",
     "issued_at": "2026-06-02T07:35:28.558941",
-    "expires_at": "2027-06-02T07:35:28.558941",
+    "expires_at": "2027-06-02T07:36:24.227684",
     "ip": "127.0.0.1",
     "client_type": "messenger"
+  },
+  "cuVALPp-WXWRAUf_Tg_u7bUEt-Fz1JHJv_PhyMBUX7c": {
+    "username": "임재현",
+    "role": "user",
+    "issued_at": "2026-06-02T07:36:24.493425",
+    "expires_at": "2027-06-02T07:36:24.493425",
+    "ip": "127.0.0.1",
+    "client_type": "board"
   }
 }
