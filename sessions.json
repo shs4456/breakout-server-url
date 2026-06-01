@@ -11,7 +11,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-05-22T22:00:09.213339",
-    "expires_at": "2027-06-02T07:57:30.424714",
+    "expires_at": "2027-06-02T08:15:20.428079",
     "ip": "127.0.0.1",
     "client_type": "admin_panel"
   },
@@ -71,14 +71,6 @@
     "ip": "127.0.0.1",
     "client_type": "board"
   },
-  "fDllFgKIv20UQ5jIaYRnjb1FEkEviv_4-NPDxUIDhGY": {
-    "username": "최우승",
-    "role": "user",
-    "issued_at": "2026-06-01T08:47:50.954366",
-    "expires_at": "2027-06-01T17:09:00.930054",
-    "ip": "127.0.0.1",
-    "client_type": "messenger"
-  },
   "42XlIIHb8qzqTsV8s9sS7Yzrp97VeHqyCQyfkTIPz7k": {
     "username": "최우승",
     "role": "user",
@@ -107,7 +99,7 @@
     "username": "임재현",
     "role": "user",
     "issued_at": "2026-06-02T07:36:24.493425",
-    "expires_at": "2027-06-02T07:57:33.947651",
+    "expires_at": "2027-06-02T08:15:22.379814",
     "ip": "127.0.0.1",
     "client_type": "board"
   },
@@ -115,7 +107,7 @@
     "username": "문정훈",
     "role": "user",
     "issued_at": "2026-06-02T07:46:10.291032",
-    "expires_at": "2027-06-02T07:57:32.718223",
+    "expires_at": "2027-06-02T08:15:22.300506",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme"
   },
@@ -123,7 +115,7 @@
     "username": "혜나",
     "role": "user",
     "issued_at": "2026-06-02T07:48:54.992477",
-    "expires_at": "2027-06-02T07:57:32.946192",
+    "expires_at": "2027-06-02T08:15:21.290056",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme"
   },
@@ -131,7 +123,7 @@
     "username": "임재현",
     "role": "user",
     "issued_at": "2026-06-02T07:52:21.872255",
-    "expires_at": "2027-06-02T07:57:33.103463",
+    "expires_at": "2027-06-02T08:15:20.833623",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme"
   },
@@ -139,8 +131,16 @@
     "username": "이동엽",
     "role": "user",
     "issued_at": "2026-06-02T07:57:34.006782",
-    "expires_at": "2027-06-02T07:57:34.006782",
+    "expires_at": "2027-06-02T08:15:22.493290",
     "ip": "127.0.0.1",
     "client_type": "board"
+  },
+  "S3citv2tw0wGf4KrYt_OCleuFrH2loer7ANqoVkAMx8": {
+    "username": "최우승",
+    "role": "user",
+    "issued_at": "2026-06-02T08:15:22.529096",
+    "expires_at": "2027-06-02T08:15:22.529096",
+    "ip": "127.0.0.1",
+    "client_type": "messenger"
   }
 }
