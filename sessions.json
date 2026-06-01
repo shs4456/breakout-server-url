@@ -11,7 +11,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-05-22T22:00:09.213339",
-    "expires_at": "2027-06-01T11:07:39.871781",
+    "expires_at": "2027-06-01T12:06:50.154126",
     "ip": "127.0.0.1",
     "client_type": "admin_panel"
   },
@@ -51,7 +51,7 @@
     "username": "김재형",
     "role": "user",
     "issued_at": "2026-05-29T08:52:16.326261",
-    "expires_at": "2027-06-01T11:07:37.911768",
+    "expires_at": "2027-06-01T12:06:46.989298",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme"
   },
@@ -59,7 +59,7 @@
     "username": "문정훈",
     "role": "user",
     "issued_at": "2026-06-01T07:46:32.725525",
-    "expires_at": "2027-06-01T11:07:42.832680",
+    "expires_at": "2027-06-01T12:06:45.170754",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme"
   },
@@ -67,7 +67,7 @@
     "username": "문정훈",
     "role": "user",
     "issued_at": "2026-06-01T07:49:50.597347",
-    "expires_at": "2027-06-01T11:07:43.498395",
+    "expires_at": "2027-06-01T12:06:51.390408",
     "ip": "127.0.0.1",
     "client_type": "messenger"
   },
@@ -75,7 +75,7 @@
     "username": "혜나",
     "role": "user",
     "issued_at": "2026-06-01T07:57:08.866182",
-    "expires_at": "2027-06-01T11:07:41.466467",
+    "expires_at": "2027-06-01T12:06:50.519267",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme"
   },
@@ -83,7 +83,7 @@
     "username": "임재현",
     "role": "user",
     "issued_at": "2026-06-01T08:05:55.111470",
-    "expires_at": "2027-06-01T11:07:42.556162",
+    "expires_at": "2027-06-01T12:06:46.588481",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme"
   },
@@ -91,7 +91,7 @@
     "username": "임재현",
     "role": "user",
     "issued_at": "2026-06-01T08:06:57.603366",
-    "expires_at": "2027-06-01T11:07:43.418171",
+    "expires_at": "2027-06-01T12:06:51.441877",
     "ip": "127.0.0.1",
     "client_type": "messenger"
   },
@@ -99,7 +99,7 @@
     "username": "임재현",
     "role": "user",
     "issued_at": "2026-06-01T08:07:17.967293",
-    "expires_at": "2027-06-01T11:07:43.308735",
+    "expires_at": "2027-06-01T12:06:51.507224",
     "ip": "127.0.0.1",
     "client_type": "board"
   },
@@ -107,7 +107,7 @@
     "username": "혜나",
     "role": "user",
     "issued_at": "2026-06-01T08:40:30.644115",
-    "expires_at": "2027-06-01T11:07:43.417178",
+    "expires_at": "2027-06-01T12:06:51.505964",
     "ip": "127.0.0.1",
     "client_type": "board"
   },
@@ -115,7 +115,7 @@
     "username": "최우승",
     "role": "user",
     "issued_at": "2026-06-01T08:47:50.954366",
-    "expires_at": "2027-06-01T11:07:43.370190",
+    "expires_at": "2027-06-01T12:06:51.596799",
     "ip": "127.0.0.1",
     "client_type": "messenger"
   },
@@ -123,7 +123,7 @@
     "username": "최우승",
     "role": "user",
     "issued_at": "2026-06-01T08:48:13.281564",
-    "expires_at": "2027-06-01T11:07:43.539701",
+    "expires_at": "2027-06-01T12:06:51.621919",
     "ip": "127.0.0.1",
     "client_type": "board"
   },
@@ -131,23 +131,15 @@
     "username": "최우승",
     "role": "user",
     "issued_at": "2026-06-01T08:48:53.332753",
-    "expires_at": "2027-06-01T11:07:37.493478",
+    "expires_at": "2027-06-01T12:06:46.469523",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme"
-  },
-  "8SXuuNdyOWz7l5433Jpk2PiQ69BB8SWW5v1Z43bCCKs": {
-    "username": "김재형",
-    "role": "user",
-    "issued_at": "2026-06-01T08:53:46.182251",
-    "expires_at": "2027-06-01T11:07:43.417178",
-    "ip": "127.0.0.1",
-    "client_type": "board"
   },
   "kKQB81RLiVkoC9xPgyofJOdlp6baJCTHq4_5VxHlyMw": {
     "username": "이동엽",
     "role": "user",
     "issued_at": "2026-06-01T08:55:53.147828",
-    "expires_at": "2027-06-01T11:07:43.540210",
+    "expires_at": "2027-06-01T12:06:51.591396",
     "ip": "127.0.0.1",
     "client_type": "board"
   },
@@ -163,7 +155,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-06-01T11:07:43.582546",
-    "expires_at": "2027-06-01T11:07:43.582546",
+    "expires_at": "2027-06-01T12:02:16.822507",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme"
   }
