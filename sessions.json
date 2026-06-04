@@ -3,7 +3,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-05-22T22:00:09.213339",
-    "expires_at": "2027-06-04T19:53:21.360246",
+    "expires_at": "2027-06-04T19:54:03.645285",
     "ip": "127.0.0.1",
     "client_type": "admin_panel"
   },
@@ -51,7 +51,7 @@
     "username": "문정훈",
     "role": "user",
     "issued_at": "2026-06-04T07:44:33.723275",
-    "expires_at": "2027-06-04T19:53:28.285674",
+    "expires_at": "2027-06-04T19:54:10.183877",
     "ip": "127.0.0.1",
     "client_type": "board"
   },
@@ -67,7 +67,7 @@
     "username": "이동엽",
     "role": "user",
     "issued_at": "2026-06-04T08:12:28.726112",
-    "expires_at": "2027-06-04T19:53:28.364079",
+    "expires_at": "2027-06-04T19:54:10.270480",
     "ip": "127.0.0.1",
     "client_type": "board"
   },
@@ -133,7 +133,7 @@
     "username": "혜나",
     "role": "user",
     "issued_at": "2026-06-04T19:30:10.042852",
-    "expires_at": "2027-06-04T19:53:27.361488",
+    "expires_at": "2027-06-04T19:54:09.344017",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme",
     "client_version": "",
@@ -143,29 +143,29 @@
     "username": "혜나",
     "role": "user",
     "issued_at": "2026-06-04T19:33:11.535118",
-    "expires_at": "2027-06-04T19:53:28.330316",
+    "expires_at": "2027-06-04T19:54:10.191878",
     "ip": "127.0.0.1",
     "client_type": "board",
     "client_version": "1.0.34",
     "app_name": "hotburger_board"
   },
-  "orfLmle9iDcr0BH0Mo7pWhhiWFMWww07vDYwf_dvXPo": {
-    "username": "성현석",
-    "role": "admin",
-    "issued_at": "2026-06-04T19:35:58.663949",
-    "expires_at": "2027-06-04T19:36:08.181880",
-    "ip": "127.0.0.1",
-    "client_type": "board",
-    "client_version": "",
-    "app_name": ""
-  },
   "l1isijPUPRFkCJjPF5edYmAhBJTnfIz6j3QlkvGZ64w": {
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-06-04T19:53:28.515708",
-    "expires_at": "2027-06-04T19:53:28.515708",
+    "expires_at": "2027-06-04T19:53:51.934200",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme",
+    "client_version": "",
+    "app_name": ""
+  },
+  "m7by0OK1JaZicOWzyC88uJb98xYZR4VHc4AZ9A3SgVU": {
+    "username": "성현석",
+    "role": "admin",
+    "issued_at": "2026-06-04T19:54:10.333974",
+    "expires_at": "2027-06-04T19:54:10.333974",
+    "ip": "127.0.0.1",
+    "client_type": "board",
     "client_version": "",
     "app_name": ""
   }
