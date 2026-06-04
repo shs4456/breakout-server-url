@@ -3,7 +3,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-05-22T22:00:09.213339",
-    "expires_at": "2027-06-04T13:10:16.249617",
+    "expires_at": "2027-06-04T13:14:56.242996",
     "ip": "127.0.0.1",
     "client_type": "admin_panel"
   },
@@ -59,7 +59,7 @@
     "username": "문정훈",
     "role": "user",
     "issued_at": "2026-06-04T07:44:33.723275",
-    "expires_at": "2027-06-04T13:10:24.738652",
+    "expires_at": "2027-06-04T13:15:00.066667",
     "ip": "127.0.0.1",
     "client_type": "board"
   },
@@ -67,7 +67,7 @@
     "username": "문정훈",
     "role": "user",
     "issued_at": "2026-06-04T07:45:02.149710",
-    "expires_at": "2027-06-04T13:10:24.402408",
+    "expires_at": "2027-06-04T13:14:59.796457",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme"
   },
@@ -75,7 +75,7 @@
     "username": "이동엽",
     "role": "user",
     "issued_at": "2026-06-04T08:12:28.726112",
-    "expires_at": "2027-06-04T13:10:24.823982",
+    "expires_at": "2027-06-04T13:15:00.143141",
     "ip": "127.0.0.1",
     "client_type": "board"
   },
@@ -111,7 +111,7 @@
     "username": "혜나",
     "role": "user",
     "issued_at": "2026-06-04T12:37:39.259422",
-    "expires_at": "2027-06-04T13:10:23.069027",
+    "expires_at": "2027-06-04T13:14:59.099641",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme",
     "client_version": "",
@@ -121,7 +121,7 @@
     "username": "혜나",
     "role": "user",
     "issued_at": "2026-06-04T12:39:28.621174",
-    "expires_at": "2027-06-04T13:10:24.577024",
+    "expires_at": "2027-06-04T13:15:00.176550",
     "ip": "127.0.0.1",
     "client_type": "board",
     "client_version": "1.0.33",
@@ -131,9 +131,19 @@
     "username": "최우승",
     "role": "user",
     "issued_at": "2026-06-04T13:02:51.186897",
-    "expires_at": "2027-06-04T13:10:23.325848",
+    "expires_at": "2027-06-04T13:14:59.332719",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme",
+    "client_version": "",
+    "app_name": ""
+  },
+  "F69LGX0g_emNuExKS-T3eX9dwQ_Xwn2j-G8INhyvweU": {
+    "username": "임재현",
+    "role": "user",
+    "issued_at": "2026-06-04T13:15:00.200449",
+    "expires_at": "2027-06-04T13:15:00.200449",
+    "ip": "127.0.0.1",
+    "client_type": "messenger",
     "client_version": "",
     "app_name": ""
   }
