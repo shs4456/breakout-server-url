@@ -3,7 +3,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-05-22T22:00:09.213339",
-    "expires_at": "2027-06-04T19:33:04.704159",
+    "expires_at": "2027-06-04T19:33:25.859516",
     "ip": "127.0.0.1",
     "client_type": "admin_panel"
   },
@@ -51,7 +51,7 @@
     "username": "문정훈",
     "role": "user",
     "issued_at": "2026-06-04T07:44:33.723275",
-    "expires_at": "2027-06-04T19:33:11.322309",
+    "expires_at": "2027-06-04T19:33:30.706357",
     "ip": "127.0.0.1",
     "client_type": "board"
   },
@@ -67,7 +67,7 @@
     "username": "이동엽",
     "role": "user",
     "issued_at": "2026-06-04T08:12:28.726112",
-    "expires_at": "2027-06-04T19:33:11.532479",
+    "expires_at": "2027-06-04T19:33:30.617536",
     "ip": "127.0.0.1",
     "client_type": "board"
   },
@@ -139,21 +139,11 @@
     "client_version": "",
     "app_name": ""
   },
-  "e0fHzzBvKErRFm4OFmY1v9X-sF3buDPHIM-a2BNxmeQ": {
-    "username": "성현석",
-    "role": "admin",
-    "issued_at": "2026-06-04T19:29:40.853932",
-    "expires_at": "2027-06-04T19:30:04.047863",
-    "ip": "127.0.0.1",
-    "client_type": "board",
-    "client_version": "",
-    "app_name": ""
-  },
   "Ioq4TtndTYjN46afDIUiWsp5HnYTx95rLVUgZrQnpr0": {
     "username": "혜나",
     "role": "user",
     "issued_at": "2026-06-04T19:30:10.042852",
-    "expires_at": "2027-06-04T19:33:11.412234",
+    "expires_at": "2027-06-04T19:33:30.296201",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme",
     "client_version": "",
@@ -163,10 +153,20 @@
     "username": "혜나",
     "role": "user",
     "issued_at": "2026-06-04T19:33:11.535118",
-    "expires_at": "2027-06-04T19:33:11.535118",
+    "expires_at": "2027-06-04T19:33:30.766388",
     "ip": "127.0.0.1",
     "client_type": "board",
     "client_version": "1.0.34",
     "app_name": "hotburger_board"
+  },
+  "s-2ZK8etnoxmpjqnN_mjBDy8_lSs8KJiGVFmZ2Ywc-k": {
+    "username": "성현석",
+    "role": "admin",
+    "issued_at": "2026-06-04T19:33:30.772237",
+    "expires_at": "2027-06-04T19:33:30.772237",
+    "ip": "127.0.0.1",
+    "client_type": "board",
+    "client_version": "",
+    "app_name": ""
   }
 }
