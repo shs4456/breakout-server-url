@@ -11,7 +11,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-05-22T22:00:09.213339",
-    "expires_at": "2027-06-04T11:49:37.652177",
+    "expires_at": "2027-06-04T11:51:48.096660",
     "ip": "127.0.0.1",
     "client_type": "admin_panel"
   },
@@ -75,23 +75,15 @@
     "username": "임재현",
     "role": "user",
     "issued_at": "2026-06-04T07:41:17.742081",
-    "expires_at": "2027-06-04T11:49:47.713053",
+    "expires_at": "2027-06-04T11:51:55.409143",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme"
-  },
-  "fAws9o6tkI5NJyuvEShS74UzYrZKsXMk8MYz4UghbHg": {
-    "username": "임재현",
-    "role": "user",
-    "issued_at": "2026-06-04T07:41:45.881576",
-    "expires_at": "2027-06-04T11:49:48.095036",
-    "ip": "127.0.0.1",
-    "client_type": "board"
   },
   "t2wj1CkRrnzkDFz5Wz2v0iun0SXqi_685cRw3SNIEYY": {
     "username": "문정훈",
     "role": "user",
     "issued_at": "2026-06-04T07:44:33.723275",
-    "expires_at": "2027-06-04T11:49:48.167499",
+    "expires_at": "2027-06-04T11:51:55.676667",
     "ip": "127.0.0.1",
     "client_type": "board"
   },
@@ -99,7 +91,7 @@
     "username": "문정훈",
     "role": "user",
     "issued_at": "2026-06-04T07:45:02.149710",
-    "expires_at": "2027-06-04T11:49:47.391773",
+    "expires_at": "2027-06-04T11:51:55.687604",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme"
   },
@@ -107,7 +99,7 @@
     "username": "이동엽",
     "role": "user",
     "issued_at": "2026-06-04T08:12:28.726112",
-    "expires_at": "2027-06-04T11:49:48.001652",
+    "expires_at": "2027-06-04T11:51:55.809363",
     "ip": "127.0.0.1",
     "client_type": "board"
   },
@@ -123,7 +115,7 @@
     "username": "혜나",
     "role": "user",
     "issued_at": "2026-06-04T11:06:55.448452",
-    "expires_at": "2027-06-04T11:49:47.434512",
+    "expires_at": "2027-06-04T11:51:55.427956",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme"
   },
@@ -139,7 +131,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-06-04T11:49:48.172005",
-    "expires_at": "2027-06-04T11:49:48.172005",
+    "expires_at": "2027-06-04T11:49:54.696051",
     "ip": "127.0.0.1",
     "client_type": "board"
   }
