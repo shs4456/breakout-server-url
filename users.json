@@ -146,7 +146,7 @@
     "permissions": {
       "messenger": true,
       "board": true,
-      "hotburger_theme": false
+      "hotburger_theme": true
     }
   }
 }
