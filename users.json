@@ -120,7 +120,7 @@
     "permissions": {
       "messenger": true,
       "board": false,
-      "hotburger_theme": true
+      "hotburger_theme": false
     }
   },
   "김성원": {
