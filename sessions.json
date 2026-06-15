@@ -3,7 +3,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-05-22T22:00:09.213339",
-    "expires_at": "2027-06-16T08:08:13.705512",
+    "expires_at": "2027-06-16T08:08:53.699133",
     "ip": "127.0.0.1",
     "client_type": "admin_panel"
   },
@@ -131,7 +131,7 @@
     "username": "문정훈",
     "role": "user",
     "issued_at": "2026-06-16T07:49:21.697562",
-    "expires_at": "2027-06-16T08:08:18.260353",
+    "expires_at": "2027-06-16T08:08:56.261408",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme",
     "client_version": "1.0.63",
@@ -141,7 +141,7 @@
     "username": "임재현",
     "role": "user",
     "issued_at": "2026-06-16T07:50:18.824447",
-    "expires_at": "2027-06-16T08:08:18.442741",
+    "expires_at": "2027-06-16T08:08:56.215295",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme",
     "client_version": "1.0.63",
@@ -151,17 +151,7 @@
     "username": "임재현",
     "role": "user",
     "issued_at": "2026-06-16T07:51:21.382810",
-    "expires_at": "2027-06-16T08:08:18.382573",
-    "ip": "127.0.0.1",
-    "client_type": "board",
-    "client_version": "1.0.42",
-    "app_name": "hotburger_board"
-  },
-  "lxYUIODZN-gkN4sUUvPVv8igkO5uG60r0rIATVvFais": {
-    "username": "혜나",
-    "role": "user",
-    "issued_at": "2026-06-16T07:57:56.751328",
-    "expires_at": "2027-06-16T08:06:25.452530",
+    "expires_at": "2027-06-16T08:08:57.089602",
     "ip": "127.0.0.1",
     "client_type": "board",
     "client_version": "1.0.42",
@@ -171,10 +161,20 @@
     "username": "혜나",
     "role": "user",
     "issued_at": "2026-06-16T08:08:18.572217",
-    "expires_at": "2027-06-16T08:08:18.572217",
+    "expires_at": "2027-06-16T08:08:56.540029",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme",
     "client_version": "1.0.63",
     "app_name": "hotburger_hot"
+  },
+  "msjrG8PxVcZbsHRN-cXzP-HvJ6e-ba8Tx5bZYUc--jg": {
+    "username": "혜나",
+    "role": "user",
+    "issued_at": "2026-06-16T08:08:57.120495",
+    "expires_at": "2027-06-16T08:08:57.120495",
+    "ip": "127.0.0.1",
+    "client_type": "board",
+    "client_version": "1.0.42",
+    "app_name": "hotburger_board"
   }
 }
