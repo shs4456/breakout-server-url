@@ -3,7 +3,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-05-22T22:00:09.213339",
-    "expires_at": "2027-06-16T07:51:13.692722",
+    "expires_at": "2027-06-16T07:57:03.738585",
     "ip": "127.0.0.1",
     "client_type": "admin_panel"
   },
@@ -107,16 +107,6 @@
     "client_version": "1.0.40",
     "app_name": "hotburger_board"
   },
-  "gCD_NHuV0aBjk7rJSoiCEbyHqisz65MpqDcqigGdU3k": {
-    "username": "혜나",
-    "role": "user",
-    "issued_at": "2026-06-15T13:08:43.883653",
-    "expires_at": "2027-06-15T21:11:47.231407",
-    "ip": "127.0.0.1",
-    "client_type": "hotburger_theme",
-    "client_version": "1.0.62",
-    "app_name": "hotburger_hot"
-  },
   "LZSaTHRnhOg4F18nUBMaNHW27ZNvQ6HJw25FdKnPI-g": {
     "username": "김성원",
     "role": "user",
@@ -141,7 +131,7 @@
     "username": "문정훈",
     "role": "user",
     "issued_at": "2026-06-16T07:49:21.697562",
-    "expires_at": "2027-06-16T07:51:20.133050",
+    "expires_at": "2027-06-16T07:57:07.651518",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme",
     "client_version": "1.0.63",
@@ -151,7 +141,7 @@
     "username": "임재현",
     "role": "user",
     "issued_at": "2026-06-16T07:50:18.824447",
-    "expires_at": "2027-06-16T07:51:20.353829",
+    "expires_at": "2027-06-16T07:57:06.455144",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme",
     "client_version": "1.0.63",
@@ -161,10 +151,20 @@
     "username": "임재현",
     "role": "user",
     "issued_at": "2026-06-16T07:51:21.382810",
-    "expires_at": "2027-06-16T07:51:21.382810",
+    "expires_at": "2027-06-16T07:57:07.995440",
     "ip": "127.0.0.1",
     "client_type": "board",
     "client_version": "1.0.42",
     "app_name": "hotburger_board"
+  },
+  "wvbhnzIq3--XXD17pMuqNp0C-_1bYtAjiT0q8lMX5fE": {
+    "username": "혜나",
+    "role": "user",
+    "issued_at": "2026-06-16T07:57:08.016994",
+    "expires_at": "2027-06-16T07:57:08.016994",
+    "ip": "127.0.0.1",
+    "client_type": "hotburger_theme",
+    "client_version": "1.0.63",
+    "app_name": "hotburger_hot"
   }
 }
