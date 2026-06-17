@@ -3,7 +3,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-05-22T22:00:09.213339",
-    "expires_at": "2027-06-18T07:55:16.616367",
+    "expires_at": "2027-06-18T07:55:56.612302",
     "ip": "127.0.0.1",
     "client_type": "admin_panel"
   },
@@ -107,16 +107,6 @@
     "client_version": "1.0.63",
     "app_name": "hotburger_hot"
   },
-  "Zn39c7N-rU6Kd-YRaGOIJ-lgujimUvlbn_YQiI112Qc": {
-    "username": "혜나",
-    "role": "user",
-    "issued_at": "2026-06-17T07:34:16.336307",
-    "expires_at": "2027-06-17T21:04:00.993660",
-    "ip": "127.0.0.1",
-    "client_type": "hotburger_theme",
-    "client_version": "1.0.63",
-    "app_name": "hotburger_hot"
-  },
   "Nn69jHZEz1flOS9I5lBMCuVkj1MNQjoYX_PkF0S8S7M": {
     "username": "김성원",
     "role": "user",
@@ -161,7 +151,7 @@
     "username": "임재현",
     "role": "user",
     "issued_at": "2026-06-18T07:44:37.852384",
-    "expires_at": "2027-06-18T07:55:24.176996",
+    "expires_at": "2027-06-18T07:55:57.011222",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme",
     "client_version": "1.0.63",
@@ -171,7 +161,7 @@
     "username": "임재현",
     "role": "user",
     "issued_at": "2026-06-18T07:45:51.987640",
-    "expires_at": "2027-06-18T07:55:24.353184",
+    "expires_at": "2027-06-18T07:55:58.054601",
     "ip": "127.0.0.1",
     "client_type": "board",
     "client_version": "1.0.42",
@@ -181,10 +171,20 @@
     "username": "문정훈",
     "role": "user",
     "issued_at": "2026-06-18T07:55:24.472705",
-    "expires_at": "2027-06-18T07:55:24.472705",
+    "expires_at": "2027-06-18T07:55:58.219504",
     "ip": "127.0.0.1",
     "client_type": "board",
     "client_version": "1.0.42",
     "app_name": "hotburger_board"
+  },
+  "MFH66IK6zWIgEXU2Tsuusd43uc1CTr3ImpE68JiMFAw": {
+    "username": "혜나",
+    "role": "user",
+    "issued_at": "2026-06-18T07:55:58.233457",
+    "expires_at": "2027-06-18T07:55:58.233457",
+    "ip": "127.0.0.1",
+    "client_type": "hotburger_theme",
+    "client_version": "1.0.63",
+    "app_name": "hotburger_hot"
   }
 }
