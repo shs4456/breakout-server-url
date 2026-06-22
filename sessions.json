@@ -3,7 +3,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-05-22T22:00:09.213339",
-    "expires_at": "2027-06-22T15:35:55.138870",
+    "expires_at": "2027-06-22T16:32:55.103598",
     "ip": "127.0.0.1",
     "client_type": "admin_panel"
   },
@@ -71,7 +71,7 @@
     "username": "고경진",
     "role": "user",
     "issued_at": "2026-06-18T16:08:38.562429",
-    "expires_at": "2027-06-22T15:12:42.204265",
+    "expires_at": "2027-06-22T15:57:50.801909",
     "ip": "127.0.0.1",
     "client_type": "board",
     "client_version": "1.0.42",
@@ -91,7 +91,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-06-21T19:25:30.504830",
-    "expires_at": "2027-06-22T15:35:29.752319",
+    "expires_at": "2027-06-22T16:33:04.342020",
     "ip": "127.0.0.1",
     "client_type": "hot_swing",
     "client_version": "1.0.3",
@@ -106,16 +106,6 @@
     "client_type": "hotburger_theme",
     "client_version": "1.0.63",
     "app_name": "hotburger_hot"
-  },
-  "CnMyMqwguld1N6KbO6diwuST2N__3qR9CW7B7ya8cqQ": {
-    "username": "이동엽",
-    "role": "user",
-    "issued_at": "2026-06-21T23:14:19.674841",
-    "expires_at": "2027-06-21T23:14:19.675837",
-    "ip": "127.0.0.1",
-    "client_type": "hot_swing",
-    "client_version": "1.0.2",
-    "app_name": "hot_swing_messenger"
   },
   "EIroRkpqG5EIbhgaoSzYfg1s-Whm-ywxDbYcFz2yU4c": {
     "username": "문정훈",
@@ -191,7 +181,7 @@
     "username": "고경진",
     "role": "user",
     "issued_at": "2026-06-22T11:17:51.871516",
-    "expires_at": "2027-06-22T15:12:40.763350",
+    "expires_at": "2027-06-22T15:57:49.838684",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme",
     "client_version": "1.0.63",
@@ -205,6 +195,16 @@
     "ip": "127.0.0.1",
     "client_type": "hot_swing",
     "client_version": "1.0.2",
+    "app_name": "hot_swing_messenger"
+  },
+  "DOcOf0Htw67LBU_FH6-52lYiElgQPmpeRzhvZm59zDk": {
+    "username": "이동엽",
+    "role": "user",
+    "issued_at": "2026-06-22T16:33:04.829961",
+    "expires_at": "2027-06-22T16:33:04.829961",
+    "ip": "127.0.0.1",
+    "client_type": "hot_swing",
+    "client_version": "1.0.4",
     "app_name": "hot_swing_messenger"
   }
 }
