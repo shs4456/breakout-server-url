@@ -3,7 +3,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-05-22T22:00:09.213339",
-    "expires_at": "2027-06-23T08:03:37.822106",
+    "expires_at": "2027-06-23T08:11:27.803733",
     "ip": "127.0.0.1",
     "client_type": "admin_panel"
   },
@@ -76,16 +76,6 @@
     "client_type": "board",
     "client_version": "1.0.42",
     "app_name": "hotburger_board"
-  },
-  "QUrciirWUEVz6krI-5_29OeIc4qTjU2F_BzWoml3xlI": {
-    "username": "성현석",
-    "role": "admin",
-    "issued_at": "2026-06-18T16:27:31.608741",
-    "expires_at": "2027-06-18T18:28:44.929039",
-    "ip": "127.0.0.1",
-    "client_type": "hotburger_theme",
-    "client_version": "1.0.63",
-    "app_name": "hotburger_hot"
   },
   "2oZTn0qHlLx8t9X-eecZu_mdmhFYjmnunZhAr_eJzs8": {
     "username": "문정훈",
@@ -201,7 +191,7 @@
     "username": "임재현",
     "role": "user",
     "issued_at": "2026-06-23T07:46:13.856230",
-    "expires_at": "2027-06-23T08:03:44.339477",
+    "expires_at": "2027-06-23T08:11:34.304259",
     "ip": "127.0.0.1",
     "client_type": "board",
     "client_version": "1.0.42",
@@ -211,7 +201,7 @@
     "username": "임재현",
     "role": "user",
     "issued_at": "2026-06-23T07:50:47.973623",
-    "expires_at": "2027-06-23T08:03:44.167159",
+    "expires_at": "2027-06-23T08:11:34.256005",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme",
     "client_version": "1.0.63",
@@ -221,10 +211,20 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-06-23T08:03:44.343968",
-    "expires_at": "2027-06-23T08:03:44.343968",
+    "expires_at": "2027-06-23T08:10:46.534362",
     "ip": "127.0.0.1",
     "client_type": "hot_swing",
     "client_version": "1.0.6",
     "app_name": "hot_swing_messenger"
+  },
+  "PoBTfAMeLnoMqnyZby3cnMfPRY6m6dIiU8WT5KVYTXQ": {
+    "username": "성현석",
+    "role": "admin",
+    "issued_at": "2026-06-23T08:11:34.305863",
+    "expires_at": "2027-06-23T08:11:34.305863",
+    "ip": "127.0.0.1",
+    "client_type": "hotburger_theme",
+    "client_version": "1.0.63",
+    "app_name": "hotburger_hot"
   }
 }
