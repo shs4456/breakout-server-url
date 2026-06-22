@@ -3,7 +3,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-05-22T22:00:09.213339",
-    "expires_at": "2027-06-22T23:26:55.143899",
+    "expires_at": "2027-06-23T07:46:07.809269",
     "ip": "127.0.0.1",
     "client_type": "admin_panel"
   },
@@ -216,5 +216,15 @@
     "client_type": "hot_swing",
     "client_version": "1.0.4",
     "app_name": "hot_swing_messenger"
+  },
+  "7lF60L8AQ_VDw1Z_ycQc8BqwnXJmFo7EW_cKXkLMQzw": {
+    "username": "임재현",
+    "role": "user",
+    "issued_at": "2026-06-23T07:46:13.856230",
+    "expires_at": "2027-06-23T07:46:13.856230",
+    "ip": "127.0.0.1",
+    "client_type": "board",
+    "client_version": "1.0.42",
+    "app_name": "hotburger_board"
   }
 }
