@@ -3,7 +3,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-05-22T22:00:09.213339",
-    "expires_at": "2027-06-23T22:19:00.429109",
+    "expires_at": "2027-06-23T22:19:10.507322",
     "ip": "127.0.0.1",
     "client_type": "admin_panel"
   },
@@ -207,11 +207,11 @@
     "client_version": "1.0.7",
     "app_name": "hot_swing_messenger"
   },
-  "iAciCtNZGFdNs_V_khOcSFAfoh37duzMGJ6KG13Ko5w": {
+  "6yq7_DNQ6ziZJNp4LcVG5LHfRk8whhcG12JxTTsbgnM": {
     "username": "성현석",
     "role": "admin",
-    "issued_at": "2026-06-23T22:19:05.419577",
-    "expires_at": "2027-06-23T22:19:05.419577",
+    "issued_at": "2026-06-23T22:19:14.988818",
+    "expires_at": "2027-06-23T22:19:14.988818",
     "ip": "127.0.0.1",
     "client_type": "board",
     "client_version": "1.0.42",
