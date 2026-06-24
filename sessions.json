@@ -3,7 +3,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-05-22T22:00:09.213339",
-    "expires_at": "2027-06-25T07:56:15.355105",
+    "expires_at": "2027-06-25T08:07:25.357780",
     "ip": "127.0.0.1",
     "client_type": "admin_panel"
   },
@@ -177,21 +177,11 @@
     "client_version": "1.0.63",
     "app_name": "hotburger_hot"
   },
-  "w6NbQVyaFW8Gy6mKL5kBSQiThtY5mVNrya3sEjE0CZ8": {
-    "username": "이동엽",
-    "role": "user",
-    "issued_at": "2026-06-24T19:46:47.750430",
-    "expires_at": "2027-06-24T19:46:47.750430",
-    "ip": "127.0.0.1",
-    "client_type": "hot_swing",
-    "client_version": "1.0.7",
-    "app_name": "hot_swing_messenger"
-  },
   "_vG5fzoCRDnrULM_PVEHJgoB-012Qiu-STaFSiA4W84": {
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-06-24T22:21:51.869898",
-    "expires_at": "2027-06-25T07:56:13.957168",
+    "expires_at": "2027-06-25T08:07:15.525190",
     "ip": "127.0.0.1",
     "client_type": "hot_swing",
     "client_version": "1.0.7",
@@ -211,7 +201,7 @@
     "username": "임재현",
     "role": "user",
     "issued_at": "2026-06-25T07:54:29.320236",
-    "expires_at": "2027-06-25T07:56:15.926424",
+    "expires_at": "2027-06-25T08:07:24.938626",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme",
     "client_version": "1.0.63",
@@ -221,7 +211,7 @@
     "username": "임재현",
     "role": "user",
     "issued_at": "2026-06-25T07:56:08.681842",
-    "expires_at": "2027-06-25T07:56:16.265442",
+    "expires_at": "2027-06-25T08:07:26.571470",
     "ip": "127.0.0.1",
     "client_type": "board",
     "client_version": "1.0.42",
@@ -231,10 +221,20 @@
     "username": "문정훈",
     "role": "user",
     "issued_at": "2026-06-25T07:56:16.284952",
-    "expires_at": "2027-06-25T07:56:16.284952",
+    "expires_at": "2027-06-25T08:07:26.658382",
     "ip": "127.0.0.1",
     "client_type": "board",
     "client_version": "1.0.42",
     "app_name": "hotburger_board"
+  },
+  "NjlRYWgegWm6laFQf23VZdI8_70bZha6YPLKLRYyc8w": {
+    "username": "이동엽",
+    "role": "user",
+    "issued_at": "2026-06-25T08:07:26.756222",
+    "expires_at": "2027-06-25T08:07:26.756222",
+    "ip": "127.0.0.1",
+    "client_type": "hot_swing",
+    "client_version": "1.0.7",
+    "app_name": "hot_swing_messenger"
   }
 }
