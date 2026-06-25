@@ -3,7 +3,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-05-22T22:00:09.213339",
-    "expires_at": "2027-06-26T07:53:59.385665",
+    "expires_at": "2027-06-26T08:00:19.365262",
     "ip": "127.0.0.1",
     "client_type": "admin_panel"
   },
@@ -117,16 +117,6 @@
     "client_version": "1.0.7",
     "app_name": "hot_swing_messenger"
   },
-  "NjlRYWgegWm6laFQf23VZdI8_70bZha6YPLKLRYyc8w": {
-    "username": "이동엽",
-    "role": "user",
-    "issued_at": "2026-06-25T08:07:26.756222",
-    "expires_at": "2027-06-25T08:07:26.756222",
-    "ip": "127.0.0.1",
-    "client_type": "hot_swing",
-    "client_version": "1.0.7",
-    "app_name": "hot_swing_messenger"
-  },
   "eC15szLYpfpxSzJ03SXj7gJMbzUrYEf2gRn8kyWyeGc": {
     "username": "김성원",
     "role": "user",
@@ -201,7 +191,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-06-26T04:53:37.905043",
-    "expires_at": "2027-06-26T07:53:41.916574",
+    "expires_at": "2027-06-26T08:00:11.974199",
     "ip": "127.0.0.1",
     "client_type": "hot_swing",
     "client_version": "1.0.7",
@@ -221,7 +211,7 @@
     "username": "임재현",
     "role": "user",
     "issued_at": "2026-06-26T07:38:59.814431",
-    "expires_at": "2027-06-26T07:54:00.730083",
+    "expires_at": "2027-06-26T08:00:20.264568",
     "ip": "127.0.0.1",
     "client_type": "board",
     "client_version": "1.0.42",
@@ -231,7 +221,7 @@
     "username": "임재현",
     "role": "user",
     "issued_at": "2026-06-26T07:53:39.372131",
-    "expires_at": "2027-06-26T07:54:00.598027",
+    "expires_at": "2027-06-26T08:00:18.520616",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme",
     "client_version": "1.0.63",
@@ -241,10 +231,20 @@
     "username": "문정훈",
     "role": "user",
     "issued_at": "2026-06-26T07:54:00.766363",
-    "expires_at": "2027-06-26T07:54:00.766363",
+    "expires_at": "2027-06-26T08:00:20.029810",
     "ip": "127.0.0.1",
     "client_type": "board",
     "client_version": "1.0.42",
     "app_name": "hotburger_board"
+  },
+  "s_ZUkdHowqc18BWJRyW1mpxQirgib4lZedBqjTepSeg": {
+    "username": "이동엽",
+    "role": "user",
+    "issued_at": "2026-06-26T08:00:20.272607",
+    "expires_at": "2027-06-26T08:00:20.272607",
+    "ip": "127.0.0.1",
+    "client_type": "hot_swing",
+    "client_version": "1.0.7",
+    "app_name": "hot_swing_messenger"
   }
 }
