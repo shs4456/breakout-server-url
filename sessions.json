@@ -3,7 +3,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-05-22T22:00:09.213339",
-    "expires_at": "2027-06-26T17:24:07.761474",
+    "expires_at": "2027-06-26T17:49:37.722773",
     "ip": "127.0.0.1",
     "client_type": "admin_panel"
   },
@@ -161,7 +161,7 @@
     "username": "김성원",
     "role": "user",
     "issued_at": "2026-06-26T08:26:24.625010",
-    "expires_at": "2027-06-26T17:24:12.047140",
+    "expires_at": "2027-06-26T17:49:41.145222",
     "ip": "127.0.0.1",
     "client_type": "board",
     "client_version": "1.0.42",
@@ -171,7 +171,7 @@
     "username": "김성원",
     "role": "user",
     "issued_at": "2026-06-26T08:27:12.978432",
-    "expires_at": "2027-06-26T17:24:11.066467",
+    "expires_at": "2027-06-26T17:49:41.179735",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme",
     "client_version": "1.0.63",
@@ -181,7 +181,7 @@
     "username": "혜나",
     "role": "user",
     "issued_at": "2026-06-26T08:27:19.239882",
-    "expires_at": "2027-06-26T17:24:11.445036",
+    "expires_at": "2027-06-26T17:49:39.452708",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme",
     "client_version": "1.0.63",
@@ -191,7 +191,7 @@
     "username": "혜나",
     "role": "user",
     "issued_at": "2026-06-26T08:27:52.958704",
-    "expires_at": "2027-06-26T17:24:11.878218",
+    "expires_at": "2027-06-26T17:49:41.253701",
     "ip": "127.0.0.1",
     "client_type": "board",
     "client_version": "1.0.42",
@@ -217,14 +217,14 @@
     "client_version": "1.0.7",
     "app_name": "hot_swing_messenger"
   },
-  "m8yY1cFEKA94R7h8C-gJtxFCffvTNy5J5Wr_uBKIZg8": {
+  "xKV6Dem-LJouNsmucYs_TifxNafUe_hqn0KVEKItit4": {
     "username": "성현석",
     "role": "admin",
-    "issued_at": "2026-06-26T17:24:12.056961",
-    "expires_at": "2027-06-26T17:24:12.056961",
+    "issued_at": "2026-06-26T17:49:41.263700",
+    "expires_at": "2027-06-26T17:49:41.263700",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme",
-    "client_version": "1.0.7",
-    "app_name": "hot_swing_messenger"
+    "client_version": "1.0.63",
+    "app_name": "hotburger_hot"
   }
 }
