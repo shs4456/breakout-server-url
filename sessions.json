@@ -3,7 +3,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-05-22T22:00:09.213339",
-    "expires_at": "2027-06-26T20:00:27.721051",
+    "expires_at": "2027-06-27T08:36:37.018954",
     "ip": "127.0.0.1",
     "client_type": "admin_panel"
   },
@@ -187,16 +187,6 @@
     "client_version": "1.0.63",
     "app_name": "hotburger_hot"
   },
-  "YEzy-s1QFjAqxR_MO2I8NFJFx7p8YnfKaZFxhvd9XXM": {
-    "username": "성현석",
-    "role": "admin",
-    "issued_at": "2026-06-26T19:13:09.679394",
-    "expires_at": "2027-06-26T19:13:09.679394",
-    "ip": "127.0.0.1",
-    "client_type": "hot_swing",
-    "client_version": "1.0.7",
-    "app_name": "hot_swing_messenger"
-  },
   "1UyL5o-RkXZses7Gdtyl4rqSaFwDup0DsVtnFgJPnIE": {
     "username": "혜나",
     "role": "user",
@@ -214,6 +204,16 @@
     "expires_at": "2027-06-26T20:00:31.344260",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme",
+    "client_version": "1.0.7",
+    "app_name": "hot_swing_messenger"
+  },
+  "2UPcN8eW2fJFoxtaBYQsy-mCu-q7yUDxmLEUmBp-bYY": {
+    "username": "성현석",
+    "role": "admin",
+    "issued_at": "2026-06-27T08:36:39.110686",
+    "expires_at": "2027-06-27T08:36:39.110686",
+    "ip": "127.0.0.1",
+    "client_type": "hot_swing",
     "client_version": "1.0.7",
     "app_name": "hot_swing_messenger"
   }
