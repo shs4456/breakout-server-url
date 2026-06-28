@@ -1,5 +1,9 @@
 {
-  "version": "1.0.7",
+  "app_name": "hot_swing_messenger",
+  "version": "1.0.8",
+  "version_url": "https://raw.githubusercontent.com/shs4456/breakout-server-url/main/version-info/hot_swing_version.json",
   "setup_url": "https://github.com/shs4456/breakout-server-url/releases/latest/download/HotSwingSetup.exe",
-  "notes": "HotSwing 1.0.7 radar duplicate dedup and minimi patch 2026-06-23 08:30:59"
+  "notes": "Auto-uploaded via Codex @ 2026-06-28 23:31:57",
+  "sha256": "b7beb90da18f8bb19e3bd8c112e0d63b229b02a02983c845f714abdf53b06531",
+  "size": 25589451
 }
