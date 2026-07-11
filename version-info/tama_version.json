@@ -1,0 +1,9 @@
+{
+  "app_name": "tama_client",
+  "version": "1.0.0",
+  "min_supported_version": "1.0.0",
+  "setup_url": "https://github.com/shs4456/breakout-server-url/releases/latest/download/TamaSetup.exe",
+  "sha256": "2c7fc41481f09821f2a63c9c001ac13e96fde3ddbf923a16a7cd3abfd928d5ef",
+  "size_bytes": 26421680,
+  "notes": "Tama 1.0.0 initial GitHub release via BreakoutCenter serial release (2026-07-12). Verified against latest/download."
+}
