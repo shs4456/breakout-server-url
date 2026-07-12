@@ -3,7 +3,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-05-22T22:00:09.213339",
-    "expires_at": "2027-07-12T18:05:06.665698",
+    "expires_at": "2027-07-12T18:55:26.690595",
     "ip": "127.0.0.1",
     "client_type": "admin_panel"
   },
@@ -207,14 +207,14 @@
     "client_version": "1.0.0",
     "app_name": "tama_client"
   },
-  "TyaOptPxSqZPk8HazmKJZePXGNz11mhhJhMegs_NaZQ": {
+  "ZWix9Tyf_SJq4j1uc3NYw5TPzpC0gW1pr07sJX-fqiE": {
     "username": "성현석",
     "role": "admin",
-    "issued_at": "2026-07-12T18:05:07.975008",
-    "expires_at": "2027-07-12T18:05:07.975008",
+    "issued_at": "2026-07-12T18:55:30.711460",
+    "expires_at": "2027-07-12T18:55:30.711460",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme",
-    "client_version": "1.0.0",
+    "client_version": "1.0.1",
     "app_name": "tama_client"
   }
 }
