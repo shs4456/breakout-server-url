@@ -3,7 +3,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-05-22T22:00:09.213339",
-    "expires_at": "2027-07-13T10:08:41.847043",
+    "expires_at": "2027-07-13T15:50:41.832556",
     "ip": "127.0.0.1",
     "client_type": "admin_panel"
   },
@@ -171,7 +171,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-07-13T00:01:46.360082",
-    "expires_at": "2027-07-13T10:08:44.058269",
+    "expires_at": "2027-07-13T15:50:44.144407",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme",
     "client_version": "1.0.1",
@@ -181,7 +181,7 @@
     "username": "김성원",
     "role": "user",
     "issued_at": "2026-07-13T07:41:08.031864",
-    "expires_at": "2027-07-13T10:08:45.829780",
+    "expires_at": "2027-07-13T10:21:06.846486",
     "ip": "127.0.0.1",
     "client_type": "board",
     "client_version": "1.0.42",
@@ -191,30 +191,30 @@
     "username": "김성원",
     "role": "user",
     "issued_at": "2026-07-13T07:41:50.227529",
-    "expires_at": "2027-07-13T10:08:45.544045",
+    "expires_at": "2027-07-13T10:21:06.426121",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme",
     "client_version": "1.0.63",
     "app_name": "hotburger_hot"
   },
-  "QaYGhDFmRQe9odpfgeRHTyrtyKTO9pbdSAcd4eb-B5c": {
-    "username": "임재현",
+  "EecDNAr5GqCGoua9_yCN8DC5Gj-5cqfq0opGKG5nf30": {
+    "username": "고경진",
     "role": "user",
-    "issued_at": "2026-07-13T07:43:27.509754",
-    "expires_at": "2027-07-13T10:08:45.237052",
+    "issued_at": "2026-07-13T10:08:46.048160",
+    "expires_at": "2027-07-13T13:40:09.203981",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme",
     "client_version": "1.0.0",
     "app_name": "tama_client"
   },
-  "EecDNAr5GqCGoua9_yCN8DC5Gj-5cqfq0opGKG5nf30": {
-    "username": "고경진",
+  "AIpJGAmApSBVdB5hmIfXl5GVeWOtVK8Vcbnvcso_FDw": {
+    "username": "임재현",
     "role": "user",
-    "issued_at": "2026-07-13T10:08:46.048160",
-    "expires_at": "2027-07-13T10:08:46.048160",
+    "issued_at": "2026-07-13T15:50:44.675652",
+    "expires_at": "2027-07-13T15:50:44.675652",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme",
-    "client_version": "1.0.0",
-    "app_name": "tama_client"
+    "client_version": "1.0.63",
+    "app_name": "hotburger_hot"
   }
 }
