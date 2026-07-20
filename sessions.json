@@ -3,7 +3,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-05-22T22:00:09.213339",
-    "expires_at": "2027-07-21T07:52:36.520138",
+    "expires_at": "2027-07-21T07:58:26.600432",
     "ip": "127.0.0.1",
     "client_type": "admin_panel"
   },
@@ -167,16 +167,6 @@
     "client_version": "1.0.8",
     "app_name": "hot_swing_messenger"
   },
-  "6y5jP9hiaZTDrtcNLJaku8-dNeA-BQ3iqYcYZjSzytE": {
-    "username": "임재현",
-    "role": "user",
-    "issued_at": "2026-07-15T08:21:38.625234",
-    "expires_at": "2027-07-20T10:56:01.156217",
-    "ip": "127.0.0.1",
-    "client_type": "hotburger_theme",
-    "client_version": "1.0.0",
-    "app_name": "tama_client"
-  },
   "T2FZT5QE0vusbP6p8oSk2FF2lVSaoOyKnpjMvbCZEGg": {
     "username": "혜나",
     "role": "user",
@@ -191,7 +181,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-07-21T07:51:52.549874",
-    "expires_at": "2027-07-21T07:52:41.207683",
+    "expires_at": "2027-07-21T07:58:33.755787",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme",
     "client_version": "1.0.1",
@@ -201,7 +191,7 @@
     "username": "김성원",
     "role": "user",
     "issued_at": "2026-07-21T07:52:16.068517",
-    "expires_at": "2027-07-21T07:52:41.687622",
+    "expires_at": "2027-07-21T07:58:33.862744",
     "ip": "127.0.0.1",
     "client_type": "board",
     "client_version": "1.0.42",
@@ -211,10 +201,20 @@
     "username": "김성원",
     "role": "user",
     "issued_at": "2026-07-21T07:52:41.726220",
-    "expires_at": "2027-07-21T07:52:41.726220",
+    "expires_at": "2027-07-21T07:58:33.932374",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme",
     "client_version": "1.0.63",
     "app_name": "hotburger_hot"
+  },
+  "ibAk8tQdgpKx733NWv4PgMsXaSQqmbP3SkpdE32slts": {
+    "username": "임재현",
+    "role": "user",
+    "issued_at": "2026-07-21T07:58:34.027054",
+    "expires_at": "2027-07-21T07:58:34.027054",
+    "ip": "127.0.0.1",
+    "client_type": "hotburger_theme",
+    "client_version": "1.0.0",
+    "app_name": "tama_client"
   }
 }
