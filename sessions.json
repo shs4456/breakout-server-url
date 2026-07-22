@@ -3,7 +3,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-05-22T22:00:09.213339",
-    "expires_at": "2027-07-22T08:55:55.273688",
+    "expires_at": "2027-07-22T22:45:24.154358",
     "ip": "127.0.0.1",
     "client_type": "admin_panel"
   },
@@ -167,16 +167,6 @@
     "client_version": "1.0.8",
     "app_name": "hot_swing_messenger"
   },
-  "q57cRSX2CZtdy3-jaztFAnM_ecXXIIZJnw35Axcwz4w": {
-    "username": "김성원",
-    "role": "user",
-    "issued_at": "2026-07-21T07:52:16.068517",
-    "expires_at": "2027-07-21T07:58:33.862744",
-    "ip": "127.0.0.1",
-    "client_type": "board",
-    "client_version": "1.0.42",
-    "app_name": "hotburger_board"
-  },
   "6jXV6D6nmnwU-GW0X5-MDZmCjfsRBjziJmSdiFMtz7Y": {
     "username": "김성원",
     "role": "user",
@@ -191,7 +181,7 @@
     "username": "임재현",
     "role": "user",
     "issued_at": "2026-07-21T07:58:34.027054",
-    "expires_at": "2027-07-22T08:56:00.657867",
+    "expires_at": "2027-07-22T15:23:21.206582",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme",
     "client_version": "1.0.0",
@@ -201,7 +191,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-07-22T07:25:19.706675",
-    "expires_at": "2027-07-22T08:55:58.748877",
+    "expires_at": "2027-07-22T22:45:28.655770",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme",
     "client_version": "1.0.1",
@@ -211,10 +201,20 @@
     "username": "혜나",
     "role": "user",
     "issued_at": "2026-07-22T08:56:00.877294",
-    "expires_at": "2027-07-22T08:56:00.877294",
+    "expires_at": "2027-07-22T16:48:52.440395",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme",
     "client_version": "1.0.0",
     "app_name": "tama_client"
+  },
+  "hj9lbsYIcal9QV6VzxDW6TSMitojaMIe-Q-g_pIow8I": {
+    "username": "김성원",
+    "role": "user",
+    "issued_at": "2026-07-22T22:45:28.968318",
+    "expires_at": "2027-07-22T22:45:28.968318",
+    "ip": "127.0.0.1",
+    "client_type": "board",
+    "client_version": "1.0.42",
+    "app_name": "hotburger_board"
   }
 }
