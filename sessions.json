@@ -3,7 +3,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-05-22T22:00:09.213339",
-    "expires_at": "2027-07-23T08:45:49.633450",
+    "expires_at": "2027-07-23T16:11:08.477820",
     "ip": "127.0.0.1",
     "client_type": "admin_panel"
   },
@@ -147,16 +147,6 @@
     "client_version": "1.0.42",
     "app_name": "hotburger_board"
   },
-  "EecDNAr5GqCGoua9_yCN8DC5Gj-5cqfq0opGKG5nf30": {
-    "username": "고경진",
-    "role": "user",
-    "issued_at": "2026-07-13T10:08:46.048160",
-    "expires_at": "2027-07-13T13:40:09.203981",
-    "ip": "127.0.0.1",
-    "client_type": "hotburger_theme",
-    "client_version": "1.0.0",
-    "app_name": "tama_client"
-  },
   "aMOOMZYo9gHf-Jzr3PZjFJnTFa_RSTtkzoNAXvnnt38": {
     "username": "임재현",
     "role": "user",
@@ -181,7 +171,7 @@
     "username": "임재현",
     "role": "user",
     "issued_at": "2026-07-21T07:58:34.027054",
-    "expires_at": "2027-07-23T08:45:53.275288",
+    "expires_at": "2027-07-23T15:43:26.123260",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme",
     "client_version": "1.0.0",
@@ -191,7 +181,7 @@
     "username": "혜나",
     "role": "user",
     "issued_at": "2026-07-22T08:56:00.877294",
-    "expires_at": "2027-07-22T16:48:52.440395",
+    "expires_at": "2027-07-23T16:11:16.978664",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme",
     "client_version": "1.0.0",
@@ -211,10 +201,20 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-07-23T08:45:53.886471",
-    "expires_at": "2027-07-23T08:45:53.886471",
+    "expires_at": "2027-07-23T16:11:16.629395",
     "ip": "127.0.0.1",
     "client_type": "hotburger_theme",
     "client_version": "1.0.1",
     "app_name": "tama_client"
+  },
+  "oajFhKYMwCMArx4d-h70A7THW5rSXWQ6DB5DINzk91Q": {
+    "username": "고경진",
+    "role": "user",
+    "issued_at": "2026-07-23T16:11:18.031983",
+    "expires_at": "2027-07-23T16:11:18.031983",
+    "ip": "127.0.0.1",
+    "client_type": "hotburger_theme",
+    "client_version": "1.0.63",
+    "app_name": "hotburger_hot"
   }
 }
