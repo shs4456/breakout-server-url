@@ -13,10 +13,20 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-07-27T07:34:01.969113",
-    "expires_at": "2027-07-27T07:34:01.969619",
+    "expires_at": "2027-07-27T07:42:30.449352",
     "ip": "127.0.0.1",
     "client_type": "tama_client",
     "client_version": "1.0.1",
+    "app_name": "tama_client"
+  },
+  "0cwON1HPg7qe32qPHIJFcEsR9ehhssG1SmpHZUWZU8Q": {
+    "username": "임재현",
+    "role": "user",
+    "issued_at": "2026-07-27T07:42:31.874493",
+    "expires_at": "2027-07-27T07:42:31.874493",
+    "ip": "127.0.0.1",
+    "client_type": "hotburger_theme",
+    "client_version": "1.0.0",
     "app_name": "tama_client"
   }
 }
