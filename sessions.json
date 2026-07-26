@@ -1,19 +1,19 @@
 {
-  "QayuZS945PPCa8jKJb8cKCFYhJdguaHyuSGCkbblHDo": {
+  "l6fAT-rVnwYeHLQmPDat4U869s7R8N9gR9ZEJGnyGu0": {
     "username": "옛사용자",
     "role": "user",
-    "issued_at": "2026-07-26T22:30:45.788149",
-    "expires_at": "2027-07-26T22:30:45.788149",
+    "issued_at": "2026-07-26T23:03:18.230543",
+    "expires_at": "2027-07-26T23:03:18.230543",
     "ip": "10.0.0.3",
     "client_type": "messenger",
     "client_version": "1.0.1",
     "app_name": "tama_client"
   },
-  "pQ9xQHFzR01n1JoIsrAAAOXeTiMn5E_-jdhhW6fzv-4": {
+  "xo7c5lwR96TUldZIEu7KAqAlFS00_BfHdhwhxOeItMU": {
     "username": "성현석",
     "role": "admin",
-    "issued_at": "2026-07-26T22:39:26.082949",
-    "expires_at": "2027-07-26T22:39:26.082949",
+    "issued_at": "2026-07-26T23:44:33.944465",
+    "expires_at": "2027-07-26T23:44:33.944465",
     "ip": "127.0.0.1",
     "client_type": "tama_client",
     "client_version": "1.0.1",
