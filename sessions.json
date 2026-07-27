@@ -1,32 +1,22 @@
 {
-  "ADMIN_TOKEN_TEST": {
-    "username": "admin",
+  "xVWHomIe3x6lHw20IkxZ07Op4xtsklX1_Otk7urZMpg": {
+    "username": "옛사용자",
+    "role": "user",
+    "issued_at": "2026-07-28T00:36:18.280591",
+    "expires_at": "2027-07-28T00:36:18.280591",
+    "ip": "10.0.0.3",
+    "client_type": "messenger",
+    "client_version": "1.0.1",
+    "app_name": "tama_client",
+    "client_flavor": "consumer"
+  },
+  "8eSLQkTG9Yn0yivRI7Dsrkk4uakZUSBcMdeSTVE1mvQ": {
+    "username": "성현석",
     "role": "admin",
-    "expires_at": "2027-07-28T00:45:34.846687"
-  },
-  "USER_TOKEN_TEST": {
-    "username": "u1",
-    "role": "user",
-    "expires_at": "2027-07-28T00:45:34.846687"
-  },
-  "h2ZtoCG3S-JnT9AS6c08nHIsy-yJrsbfwyyiFJA4mw4": {
-    "username": "staffA",
-    "role": "user",
-    "issued_at": "2026-07-28T00:45:35.459436",
-    "expires_at": "2027-07-28T00:45:35.459436",
-    "ip": "10.0.0.1",
-    "client_type": "unknown",
-    "client_version": "",
-    "app_name": "",
-    "client_flavor": ""
-  },
-  "0QtpD6V5ifgJAxwKeNSQ5mLMMz1PbSEPFp2pO42thlI": {
-    "username": "staffB",
-    "role": "user",
-    "issued_at": "2026-07-28T00:45:37.496157",
-    "expires_at": "2027-07-28T00:45:37.496157",
-    "ip": "10.0.0.2",
-    "client_type": "unknown",
+    "issued_at": "2026-07-28T00:48:49.141459",
+    "expires_at": "2027-07-28T00:48:49.141459",
+    "ip": "127.0.0.1",
+    "client_type": "admin_panel",
     "client_version": "",
     "app_name": "",
     "client_flavor": ""
