@@ -19,5 +19,16 @@
     "client_version": "",
     "app_name": "",
     "client_flavor": ""
+  },
+  "Yt12jYwzqYQSJcDJMZf15KGYkS5aTk9xhyDipDaGj7w": {
+    "username": "staffB",
+    "role": "user",
+    "issued_at": "2026-07-28T00:35:56.667023",
+    "expires_at": "2027-07-28T00:35:56.667023",
+    "ip": "10.0.0.2",
+    "client_type": "unknown",
+    "client_version": "",
+    "app_name": "",
+    "client_flavor": ""
   }
 }
