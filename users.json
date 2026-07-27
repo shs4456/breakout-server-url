@@ -106,7 +106,7 @@
     "phone": "01099761567",
     "role": "user",
     "expires_at": "2026-08-26",
-    "status": "active",
+    "status": "disabled",
     "created_at": "2026-05-28T22:14:04.886231",
     "permissions": {
       "messenger": true,
