@@ -2,30 +2,19 @@
   "ADMIN_TOKEN_TEST": {
     "username": "admin",
     "role": "admin",
-    "expires_at": "2027-07-28T00:35:54.652023"
+    "expires_at": "2027-07-28T00:45:34.846687"
   },
   "USER_TOKEN_TEST": {
     "username": "u1",
     "role": "user",
-    "expires_at": "2027-07-28T00:35:54.652023"
+    "expires_at": "2027-07-28T00:45:34.846687"
   },
-  "QSKCTcjhvr32JLRzRo-OksLlxSX1fiyCggKBM39W0AE": {
+  "h2ZtoCG3S-JnT9AS6c08nHIsy-yJrsbfwyyiFJA4mw4": {
     "username": "staffA",
     "role": "user",
-    "issued_at": "2026-07-28T00:35:55.252118",
-    "expires_at": "2027-07-28T00:35:55.252118",
+    "issued_at": "2026-07-28T00:45:35.459436",
+    "expires_at": "2027-07-28T00:45:35.459436",
     "ip": "10.0.0.1",
-    "client_type": "unknown",
-    "client_version": "",
-    "app_name": "",
-    "client_flavor": ""
-  },
-  "Yt12jYwzqYQSJcDJMZf15KGYkS5aTk9xhyDipDaGj7w": {
-    "username": "staffB",
-    "role": "user",
-    "issued_at": "2026-07-28T00:35:56.667023",
-    "expires_at": "2027-07-28T00:35:56.667023",
-    "ip": "10.0.0.2",
     "client_type": "unknown",
     "client_version": "",
     "app_name": "",
