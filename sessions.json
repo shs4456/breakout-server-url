@@ -1,68 +1,23 @@
 {
-  "fvbixzb-RXA2I6jqfTgooyMG1MvDZkA8Ulk92wQGgvA": {
-    "username": "옛사용자",
+  "ADMIN_TOKEN_TEST": {
+    "username": "admin",
+    "role": "admin",
+    "expires_at": "2027-07-28T00:31:03.705271"
+  },
+  "USER_TOKEN_TEST": {
+    "username": "u1",
     "role": "user",
-    "issued_at": "2026-07-27T17:30:08.527585",
-    "expires_at": "2027-07-27T17:30:08.527585",
-    "ip": "10.0.0.3",
-    "client_type": "messenger",
-    "client_version": "1.0.1",
-    "app_name": "tama_client",
-    "client_flavor": "consumer"
+    "expires_at": "2027-07-28T00:31:03.705271"
   },
-  "sxnaVoPFbZ9RxTforEC5b4epCT30HwBv2EXWcSjXHHs": {
-    "username": "성현석",
-    "role": "admin",
-    "issued_at": "2026-07-27T18:47:37.620283",
-    "expires_at": "2027-07-27T19:30:32.554669",
-    "ip": "127.0.0.1",
-    "client_type": "tama_client",
-    "client_version": "1.0.1",
-    "app_name": "tama_client",
-    "client_flavor": "main"
-  },
-  "FLWRajrsMBUvr5bKa-tTQaH4p7ip0CGIn3SIECNz0kY": {
-    "username": "성현석",
-    "role": "admin",
-    "issued_at": "2026-07-27T19:34:02.818622",
-    "expires_at": "2027-07-28T00:15:27.038783",
-    "ip": "127.0.0.1",
-    "client_type": "admin_panel",
+  "ax-7mC7L0iSQONRRyWmW6n7nS-bXuS86-GY4-WYDuxM": {
+    "username": "staffA",
+    "role": "user",
+    "issued_at": "2026-07-28T00:31:04.307275",
+    "expires_at": "2027-07-28T00:31:04.307275",
+    "ip": "10.0.0.1",
+    "client_type": "unknown",
     "client_version": "",
     "app_name": "",
     "client_flavor": ""
-  },
-  "y1csP-nbDVjzNjVWPyCaUC9BlIO0nYB5XUXJhdFCrcc": {
-    "username": "성현석",
-    "role": "admin",
-    "issued_at": "2026-07-27T22:30:21.487504",
-    "expires_at": "2027-07-28T00:14:06.743972",
-    "ip": "127.0.0.1",
-    "client_type": "tama_client",
-    "client_version": "1.0.1",
-    "app_name": "tama_client",
-    "client_flavor": "main"
-  },
-  "Y6vnVPgo7BhNFK-NOkD4H4hDyFIKo6IztdCSqcGBybg": {
-    "username": "성현석",
-    "role": "admin",
-    "issued_at": "2026-07-27T22:34:44.200865",
-    "expires_at": "2027-07-27T22:35:32.811992",
-    "ip": "127.0.0.1",
-    "client_type": "tama_client",
-    "client_version": "1.0.1",
-    "app_name": "tama_client",
-    "client_flavor": "main"
-  },
-  "Unb9hbjs_ZcgFiG_pNfFCcrl_KDz5BkOHydnZ7-iGCE": {
-    "username": "성현석",
-    "role": "admin",
-    "issued_at": "2026-07-28T00:15:29.577181",
-    "expires_at": "2027-07-28T00:15:29.577181",
-    "ip": "127.0.0.1",
-    "client_type": "tama_client",
-    "client_version": "1.0.1",
-    "app_name": "tama_client",
-    "client_flavor": "main"
   }
 }
