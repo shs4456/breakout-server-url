@@ -51,7 +51,7 @@
     "phone": "01056096659",
     "role": "user",
     "expires_at": "2026-05-19",
-    "status": "active",
+    "status": "disabled",
     "created_at": "2026-05-12T12:55:16.019648",
     "permissions": {
       "messenger": true,
