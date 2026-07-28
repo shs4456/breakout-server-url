@@ -164,7 +164,8 @@
     "permissions": {
       "messenger": true,
       "board": true,
-      "hotburger_theme": true
+      "hotburger_theme": true,
+      "hot_swing": true
     }
   },
   "정성재": {
