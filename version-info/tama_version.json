@@ -1,9 +1,9 @@
 {
   "app_name": "tama_client",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "min_supported_version": "1.0.0",
   "setup_url": "https://github.com/shs4456/breakout-server-url/releases/latest/download/TamaSetup.exe",
-  "sha256": "31841973ccc096b81ea6e5104cdfdcd07b52b718b2a4e85fb959b3c91ee1d1ad",
-  "size_bytes": 26626064,
-  "notes": "v1.0.3: 주도섹터 SHADOW 섹터명 소실 결함 수정(반응형 _SectorNavButton) — 좁은 창/고DPI(125~150%)/고배율에서 섹터명이 사라지고 '평균·합산·종목수'만 보이던 문제. 섹터명 최소폭 보장 + 좁으면 2줄 자동 reflow(1줄 섹터명·2줄 지표)·긴 이름 말줄임+tooltip. 데이터/순위/판정 무변경. min_supported 1.0.0 유지."
+  "sha256": "3df76aeb82895b9fd000005ce1424cf1ec7b6683c5816f2b66f2fdb04ea910ae",
+  "size_bytes": 26639638,
+  "notes": "v1.0.4: 핫스윙 AI canonical 4가격(AI 매수가/AI 2차 매수가/AI 익절가/AI 손절가) 표시 · 본체↔클라 동일성 정규화 · 값 없으면 산출 대기(추정·0·현재가 미대체) · 자동업데이트 유지(min 1.0.0)"
 }
