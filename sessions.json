@@ -14,7 +14,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-07-28T00:48:49.141459",
-    "expires_at": "2027-07-29T07:51:54.237320",
+    "expires_at": "2027-07-29T07:53:24.245187",
     "ip": "127.0.0.1",
     "client_type": "admin_panel",
     "client_version": "",
@@ -58,7 +58,7 @@
     "username": "임재현",
     "role": "user",
     "issued_at": "2026-07-28T07:56:58.087683",
-    "expires_at": "2027-07-29T07:52:00.342248",
+    "expires_at": "2027-07-29T07:53:30.371248",
     "ip": "127.0.0.1",
     "client_type": "tama_client",
     "client_version": "1.0.4",
@@ -75,17 +75,6 @@
     "client_version": "1.0.1",
     "app_name": "tama_client",
     "client_flavor": "consumer"
-  },
-  "jwa-8gUHbZdkvOE1jmgk_n0MkT5yB6ozZJmVLWiiknY": {
-    "username": "김성원",
-    "role": "user",
-    "issued_at": "2026-07-28T09:35:22.341292",
-    "expires_at": "2027-07-28T09:35:28.925087",
-    "ip": "127.0.0.1",
-    "client_type": "hotburger_theme",
-    "client_version": "1.0.63",
-    "app_name": "hotburger_hot",
-    "client_flavor": ""
   },
   "2gKux-xxPLa2668NIKO42PvbItShwM0ZptXogDkdbhY": {
     "username": "고경진",
@@ -146,7 +135,7 @@
     "username": "김성원",
     "role": "user",
     "issued_at": "2026-07-29T07:50:46.277679",
-    "expires_at": "2027-07-29T07:51:59.875510",
+    "expires_at": "2027-07-29T07:53:08.830323",
     "ip": "127.0.0.1",
     "client_type": "tama_client",
     "client_version": "1.0.4",
@@ -157,11 +146,22 @@
     "username": "김성원",
     "role": "user",
     "issued_at": "2026-07-29T07:52:00.921680",
-    "expires_at": "2027-07-29T07:52:00.921680",
+    "expires_at": "2027-07-29T07:53:30.332111",
     "ip": "127.0.0.1",
     "client_type": "board",
     "client_version": "1.0.42",
     "app_name": "hotburger_board",
+    "client_flavor": ""
+  },
+  "qlrDWmUw2OlUJ_As2-McXJ2VUprv-XFbcZh_nph3PNs": {
+    "username": "김성원",
+    "role": "user",
+    "issued_at": "2026-07-29T07:53:30.442547",
+    "expires_at": "2027-07-29T07:53:30.442547",
+    "ip": "127.0.0.1",
+    "client_type": "hotburger_theme",
+    "client_version": "1.0.63",
+    "app_name": "hotburger_hot",
     "client_flavor": ""
   }
 }
