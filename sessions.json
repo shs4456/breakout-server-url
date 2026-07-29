@@ -14,7 +14,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-07-28T00:48:49.141459",
-    "expires_at": "2027-07-29T21:58:04.733155",
+    "expires_at": "2027-07-29T22:08:44.297924",
     "ip": "127.0.0.1",
     "client_type": "admin_panel",
     "client_version": "",
@@ -131,17 +131,6 @@
     "app_name": "tama_client",
     "client_flavor": "main"
   },
-  "qlrDWmUw2OlUJ_As2-McXJ2VUprv-XFbcZh_nph3PNs": {
-    "username": "김성원",
-    "role": "user",
-    "issued_at": "2026-07-29T07:53:30.442547",
-    "expires_at": "2027-07-29T08:02:05.505211",
-    "ip": "127.0.0.1",
-    "client_type": "hotburger_theme",
-    "client_version": "1.0.63",
-    "app_name": "hotburger_hot",
-    "client_flavor": ""
-  },
   "9HKgD7f7RrJb4QJeehAMUkXPyZTrP8N_mq5iSlwM-l0": {
     "username": "성현석",
     "role": "admin",
@@ -157,7 +146,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-07-29T13:38:13.338819",
-    "expires_at": "2027-07-29T21:58:07.946553",
+    "expires_at": "2027-07-29T22:08:47.504714",
     "ip": "127.0.0.1",
     "client_type": "tama_client",
     "client_version": "1.0.4",
@@ -179,11 +168,22 @@
     "username": "김성원",
     "role": "user",
     "issued_at": "2026-07-29T21:58:08.155874",
-    "expires_at": "2027-07-29T21:58:08.155874",
+    "expires_at": "2027-07-29T22:08:47.565581",
     "ip": "127.0.0.1",
     "client_type": "board",
     "client_version": "1.0.42",
     "app_name": "hotburger_board",
+    "client_flavor": ""
+  },
+  "zaGUiIUamrRtJHmjgA1EaGR46Fix1__kaSGko99UnFQ": {
+    "username": "김성원",
+    "role": "user",
+    "issued_at": "2026-07-29T22:08:47.614955",
+    "expires_at": "2027-07-29T22:08:47.614955",
+    "ip": "127.0.0.1",
+    "client_type": "hotburger_theme",
+    "client_version": "1.0.63",
+    "app_name": "hotburger_hot",
     "client_flavor": ""
   }
 }
