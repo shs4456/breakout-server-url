@@ -1,9 +1,8 @@
 {
-  "app_name": "tama_client",
-  "version": "1.0.4",
-  "min_supported_version": "1.0.0",
+  "version": "1.0.5",
   "setup_url": "https://github.com/shs4456/breakout-server-url/releases/latest/download/TamaSetup.exe",
-  "sha256": "3df76aeb82895b9fd000005ce1424cf1ec7b6683c5816f2b66f2fdb04ea910ae",
-  "size_bytes": 26639638,
-  "notes": "v1.0.4: 핫스윙 AI canonical 4가격(AI 매수가/AI 2차 매수가/AI 익절가/AI 손절가) 표시 · 본체↔클라 동일성 정규화 · 값 없으면 산출 대기(추정·0·현재가 미대체) · 자동업데이트 유지(min 1.0.0)"
+  "notes": "Auto-uploaded via BreakoutCenter release pipeline (v1.0.5 KRX dedicated fix)",
+  "sha256": "f3a54919a4f5b1393086f68473940f939ce0149e73de5fd21cc6db54feaeb34a",
+  "size_bytes": 26636463,
+  "min_supported_version": "1.0.0"
 }
