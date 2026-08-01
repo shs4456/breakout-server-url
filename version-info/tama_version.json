@@ -1,8 +1,8 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "setup_url": "https://github.com/shs4456/breakout-server-url/releases/latest/download/TamaSetup.exe",
-  "notes": "Auto-uploaded via BreakoutCenter release pipeline (v1.0.5 KRX dedicated fix)",
-  "sha256": "f3a54919a4f5b1393086f68473940f939ce0149e73de5fd21cc6db54feaeb34a",
-  "size_bytes": 26636463,
+  "notes": "Auto-uploaded via BreakoutCenter release pipeline (v1.0.6 US inline tab + ALL live gate)",
+  "sha256": "cf4fa0d0d58b825cee5f2e320b31ddca0c5347151224912eaa1dc9f775eae20c",
+  "size_bytes": 26638215,
   "min_supported_version": "1.0.0"
 }
