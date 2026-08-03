@@ -14,7 +14,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-07-28T00:48:49.141459",
-    "expires_at": "2027-08-03T11:23:07.068707",
+    "expires_at": "2027-08-03T20:59:28.273285",
     "ip": "127.0.0.1",
     "client_type": "admin_panel",
     "client_version": "",
@@ -47,10 +47,10 @@
     "username": "혜나",
     "role": "user",
     "issued_at": "2026-07-28T07:54:44.230013",
-    "expires_at": "2027-07-31T12:14:46.476670",
+    "expires_at": "2027-08-03T16:59:59.807023",
     "ip": "127.0.0.1",
     "client_type": "tama_client",
-    "client_version": "1.0.4",
+    "client_version": "1.0.6",
     "app_name": "tama_client",
     "client_flavor": "consumer"
   },
@@ -58,7 +58,7 @@
     "username": "임재현",
     "role": "user",
     "issued_at": "2026-07-28T07:56:58.087683",
-    "expires_at": "2027-08-03T11:23:06.953979",
+    "expires_at": "2027-08-03T15:15:33.160192",
     "ip": "127.0.0.1",
     "client_type": "tama_client",
     "client_version": "1.0.6",
@@ -80,7 +80,7 @@
     "username": "고경진",
     "role": "user",
     "issued_at": "2026-07-28T10:58:44.162015",
-    "expires_at": "2027-08-03T11:23:07.667933",
+    "expires_at": "2027-08-03T18:59:44.270149",
     "ip": "127.0.0.1",
     "client_type": "tama_client",
     "client_version": "1.0.6",
@@ -186,17 +186,6 @@
     "app_name": "tama_client",
     "client_flavor": "consumer"
   },
-  "h1qkGueCkZnGG2iT9qDzaoDvw1C5j5zUC4kg4phtrnk": {
-    "username": "김성원",
-    "role": "user",
-    "issued_at": "2026-07-31T19:05:23.326987",
-    "expires_at": "2027-07-31T19:05:50.557013",
-    "ip": "127.0.0.1",
-    "client_type": "board",
-    "client_version": "1.0.42",
-    "app_name": "hotburger_board",
-    "client_flavor": ""
-  },
   "pboVIq6bkLrSNP9m2ExKyi3d3VqvTCkWUGogx9imAtU": {
     "username": "김성원",
     "role": "user",
@@ -223,11 +212,22 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-08-03T11:23:07.853484",
-    "expires_at": "2027-08-03T11:23:07.853484",
+    "expires_at": "2027-08-03T20:59:30.734133",
     "ip": "127.0.0.1",
     "client_type": "tama_client",
     "client_version": "1.0.6",
     "app_name": "tama_client",
     "client_flavor": "main"
+  },
+  "l7KM8AODTJMseG8Xn7cgP2J9S3Wv3qnOm2ZUpK4jSrs": {
+    "username": "김성원",
+    "role": "user",
+    "issued_at": "2026-08-03T20:59:31.013372",
+    "expires_at": "2027-08-03T20:59:31.013372",
+    "ip": "127.0.0.1",
+    "client_type": "board",
+    "client_version": "1.0.42",
+    "app_name": "hotburger_board",
+    "client_flavor": ""
   }
 }
