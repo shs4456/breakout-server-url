@@ -180,7 +180,7 @@
     "created_by": "성현석",
     "permissions": {
       "messenger": true,
-      "board": true,
+      "board": false,
       "hotburger_theme": false,
       "hot_swing": false,
       "tama_client": true
