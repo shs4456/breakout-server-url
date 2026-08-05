@@ -181,7 +181,7 @@
     "permissions": {
       "messenger": true,
       "board": true,
-      "hotburger_theme": true,
+      "hotburger_theme": false,
       "hot_swing": false,
       "tama_client": true
     }
