@@ -14,7 +14,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-07-28T00:48:49.141459",
-    "expires_at": "2027-08-12T21:49:36.548511",
+    "expires_at": "2027-08-12T21:52:26.534817",
     "ip": "127.0.0.1",
     "client_type": "admin_panel",
     "client_version": "",
@@ -201,7 +201,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-08-12T01:58:36.401012",
-    "expires_at": "2027-08-12T21:49:35.306016",
+    "expires_at": "2027-08-12T21:52:26.290244",
     "ip": "127.0.0.1",
     "client_type": "tama_client",
     "client_version": "1.0.6",
@@ -212,7 +212,7 @@
     "username": "김성원",
     "role": "user",
     "issued_at": "2026-08-12T07:59:21.127632",
-    "expires_at": "2027-08-12T21:49:37.160069",
+    "expires_at": "2027-08-12T21:52:25.232433",
     "ip": "127.0.0.1",
     "client_type": "tama_client",
     "client_version": "1.0.6",
@@ -223,7 +223,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-08-12T15:24:56.466399",
-    "expires_at": "2027-08-12T21:49:36.268725",
+    "expires_at": "2027-08-12T21:52:27.960122",
     "ip": "127.0.0.1",
     "client_type": "tama_client",
     "client_version": "1.0.7",
@@ -241,17 +241,6 @@
     "app_name": "tama_client",
     "client_flavor": "consumer"
   },
-  "e0ohY3hT01J82zmmt7MEI7r3m9LbIXrhD65CwimG54o": {
-    "username": "김성원",
-    "role": "user",
-    "issued_at": "2026-08-12T21:09:15.342685",
-    "expires_at": "2027-08-12T21:11:04.890453",
-    "ip": "127.0.0.1",
-    "client_type": "hotburger_theme",
-    "client_version": "1.0.63",
-    "app_name": "hotburger_hot",
-    "client_flavor": ""
-  },
   "uWY9LxcqsagwiKWRhzuwBTa_MIm3QjgtfQmFZfyznrY": {
     "username": "김성원",
     "role": "user",
@@ -261,6 +250,17 @@
     "client_type": "hot_swing",
     "client_version": "1.0.8",
     "app_name": "hot_swing_messenger",
+    "client_flavor": ""
+  },
+  "SzKR3gUmPtbxIdjDoye40xOCgvP0B3-OfRenm0Ajp6Y": {
+    "username": "김성원",
+    "role": "user",
+    "issued_at": "2026-08-12T21:52:28.026018",
+    "expires_at": "2027-08-12T21:52:28.026018",
+    "ip": "127.0.0.1",
+    "client_type": "hotburger_theme",
+    "client_version": "1.0.63",
+    "app_name": "hotburger_hot",
     "client_flavor": ""
   }
 }
