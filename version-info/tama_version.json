@@ -1,8 +1,8 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.11",
   "setup_url": "https://github.com/shs4456/breakout-server-url/releases/latest/download/TamaSetup.exe",
-  "notes": "Auto-uploaded via BreakoutCenter release pipeline (v1.0.6 US inline tab + ALL live gate)",
-  "sha256": "cf4fa0d0d58b825cee5f2e320b31ddca0c5347151224912eaa1dc9f775eae20c",
-  "size_bytes": 26638215,
+  "notes": "1.0.11 SK하이니스 ADR 괴리 패널(feature-flag OFF) + 시장 composer/readiness + ALL freshness lineage. min 1.0.0",
+  "sha256": "619d2d5bec2c33d7a5fe166322113870667797f700f4d68cf0f399d98f89aaa0",
+  "size_bytes": 26722642,
   "min_supported_version": "1.0.0"
 }
