@@ -1,8 +1,8 @@
 {
-  "version": "1.0.11",
+  "version": "1.0.12",
   "setup_url": "https://github.com/shs4456/breakout-server-url/releases/latest/download/TamaSetup.exe",
-  "notes": "1.0.11 SK하이니스 ADR 괴리 패널(feature-flag OFF) + 시장 composer/readiness + ALL freshness lineage. min 1.0.0",
-  "sha256": "619d2d5bec2c33d7a5fe166322113870667797f700f4d68cf0f399d98f89aaa0",
-  "size_bytes": 26722642,
+  "notes": "1.0.12 장중 조건추정 sidecar(feature-flag OFF)+시장 detail_html 원천시각+HotSwing history dedup. min 1.0.0",
+  "sha256": "38e652dd27c5bb22e4646987cadcb1faf4e7e801249369c60732b562c5742f7c",
+  "size_bytes": 26728011,
   "min_supported_version": "1.0.0"
 }
