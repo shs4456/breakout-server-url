@@ -1,8 +1,8 @@
 {
-  "version": "1.0.13",
+  "version": "1.0.14",
   "setup_url": "https://github.com/shs4456/breakout-server-url/releases/latest/download/TamaSetup.exe",
-  "notes": "1.0.13 타점 레이더 TAMA 정식 통합(right_stack 페이지·읽기전용·매매신호 아님). min 1.0.0",
-  "sha256": "e258dea05a6bb01f171e70300f519157fabc5a6431557a5135e1ff79ee6ff403",
-  "size_bytes": 26735210,
+  "notes": "1.0.14 타점 레이더 P0 근본수정(자동갱신 crash 해결·bounded shutdown·live/carry 진실성·보드 파리티·인증 origin 안전). 매매신호 아님. min 1.0.0",
+  "sha256": "8df1224c3f7ff1f4ba43c9864534d3ae8fc77dedb2876ed7b5f54092ccfa7dde",
+  "size_bytes": 26743075,
   "min_supported_version": "1.0.0"
 }
