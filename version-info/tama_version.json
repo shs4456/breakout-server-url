@@ -1,8 +1,8 @@
 {
-  "version": "1.0.12",
+  "version": "1.0.13",
   "setup_url": "https://github.com/shs4456/breakout-server-url/releases/latest/download/TamaSetup.exe",
-  "notes": "1.0.12 장중 조건추정 sidecar(feature-flag OFF)+시장 detail_html 원천시각+HotSwing history dedup. min 1.0.0",
-  "sha256": "38e652dd27c5bb22e4646987cadcb1faf4e7e801249369c60732b562c5742f7c",
-  "size_bytes": 26728011,
+  "notes": "1.0.13 타점 레이더 TAMA 정식 통합(right_stack 페이지·읽기전용·매매신호 아님). min 1.0.0",
+  "sha256": "e258dea05a6bb01f171e70300f519157fabc5a6431557a5135e1ff79ee6ff403",
+  "size_bytes": 26735210,
   "min_supported_version": "1.0.0"
 }
