@@ -1,8 +1,8 @@
 {
-  "version": "1.0.15",
+  "version": "1.0.16",
   "setup_url": "https://github.com/shs4456/breakout-server-url/releases/latest/download/TamaSetup.exe",
-  "notes": "1.0.15 휴장일(대체공휴일) 세션 진실성 + 타점레이더 malformed 가드. 매매신호 아님. min 1.0.0",
-  "sha256": "70ade4092507fdf6d9bef4427c7263032c7017788bd76fff977ec959f02ec8b5",
-  "size_bytes": 26741671,
+  "notes": "1.0.16 휴장일(대체공휴일) 세션 진실성 + 타점레이더 malformed 가드. 매매신호 아님. min 1.0.0",
+  "sha256": "b0dd214bee9dc53fdcdafe91f336289e0f40497cd8c71a0ef199ed74f8df4bf1",
+  "size_bytes": 26741717,
   "min_supported_version": "1.0.0"
 }
