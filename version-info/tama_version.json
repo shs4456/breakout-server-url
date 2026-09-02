@@ -1,8 +1,8 @@
 {
-  "version": "1.0.19",
+  "version": "1.0.21",
   "setup_url": "https://github.com/shs4456/breakout-server-url/releases/latest/download/TamaSetup.exe",
-  "notes": "1.0.19 외부 로그인 서버 생존성/시장 수급 완전성 분리 및 안전한 업데이트 검증. 매매신호 아님. min 1.0.0",
-  "sha256": "a65d0069cba0c93610513057496778701bab5898297e62bc87d9b4816c3ebfb5",
-  "size_bytes": 26742960,
+  "notes": "Auto-uploaded via BreakoutCenter @ 2026-09-02 21:25:49",
+  "sha256": "a7e960824efa8bb6e78c9c80933e48fdefb0df08ce903941d630e4236515560a",
+  "size_bytes": 26961973,
   "min_supported_version": "1.0.0"
 }
