@@ -476,10 +476,10 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-09-16T08:11:18.413826",
-    "expires_at": "2027-09-23T08:06:29.841497",
+    "expires_at": "2027-09-24T19:12:46.886524",
     "ip": "127.0.0.1",
     "client_type": "tama_client",
-    "client_version": "1.0.134",
+    "client_version": "1.0.157",
     "app_name": "tama_client",
     "client_flavor": "main"
   },
@@ -498,7 +498,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-09-21T11:52:17.239127",
-    "expires_at": "2027-09-23T18:03:51.379357",
+    "expires_at": "2027-09-24T19:12:45.510156",
     "ip": "127.0.0.1",
     "client_type": "admin_panel",
     "client_version": "",
@@ -526,5 +526,16 @@
     "client_version": "1.0.137",
     "app_name": "tama_client",
     "client_flavor": "consumer"
+  },
+  "Ti7XOueBp4zAl9Z-mS2-PifkAZ4rdiGn22T7UbuF17Y": {
+    "username": "성현석",
+    "role": "admin",
+    "issued_at": "2026-09-24T19:12:47.711110",
+    "expires_at": "2027-09-24T19:12:47.711110",
+    "ip": "127.0.0.1",
+    "client_type": "tama_client",
+    "client_version": "1.0.158",
+    "app_name": "tama_client",
+    "client_flavor": "main"
   }
 }
