@@ -476,7 +476,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-09-16T08:11:18.413826",
-    "expires_at": "2027-09-24T19:12:46.886524",
+    "expires_at": "2027-09-28T07:07:14.903258",
     "ip": "127.0.0.1",
     "client_type": "tama_client",
     "client_version": "1.0.157",
@@ -498,7 +498,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-09-21T11:52:17.239127",
-    "expires_at": "2027-09-24T19:12:45.510156",
+    "expires_at": "2027-09-28T07:07:16.293657",
     "ip": "127.0.0.1",
     "client_type": "admin_panel",
     "client_version": "",
@@ -537,5 +537,16 @@
     "client_version": "1.0.158",
     "app_name": "tama_client",
     "client_flavor": "main"
+  },
+  "_vhJDxBzqN7THVXo9sWbQXg9oE6HHr1YN76BejhIVA8": {
+    "username": "성현석",
+    "role": "admin",
+    "issued_at": "2026-09-28T07:07:19.035893",
+    "expires_at": "2027-09-28T07:07:19.035893",
+    "ip": "127.0.0.1",
+    "client_type": "hot_swing",
+    "client_version": "1.0.158",
+    "app_name": "hot_swing_messenger",
+    "client_flavor": ""
   }
 }
