@@ -498,7 +498,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-09-21T11:52:17.239127",
-    "expires_at": "2027-09-30T07:13:22.635342",
+    "expires_at": "2027-09-30T07:52:42.801722",
     "ip": "127.0.0.1",
     "client_type": "admin_panel",
     "client_version": "",
@@ -520,10 +520,10 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-09-24T19:12:47.711110",
-    "expires_at": "2027-09-28T22:19:16.192868",
+    "expires_at": "2027-09-30T07:48:05.864368",
     "ip": "127.0.0.1",
     "client_type": "tama_client",
-    "client_version": "1.0.173",
+    "client_version": "1.0.181",
     "app_name": "tama_client",
     "client_flavor": "main"
   },
@@ -531,7 +531,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-09-28T07:07:19.035893",
-    "expires_at": "2027-09-30T07:13:24.416955",
+    "expires_at": "2027-09-30T07:41:34.124643",
     "ip": "127.0.0.1",
     "client_type": "hot_swing",
     "client_version": "1.0.180",
@@ -560,26 +560,26 @@
     "app_name": "hotburger_hot",
     "client_flavor": ""
   },
-  "qP-wIkULRshiIw_Qw2GwCQQDjohUu8AQOWEfS_RWf4U": {
-    "username": "김성원",
-    "role": "user",
-    "issued_at": "2026-09-28T22:43:54.276075",
-    "expires_at": "2027-09-28T22:43:54.276075",
-    "ip": "127.0.0.1",
-    "client_type": "tama_client",
-    "client_version": "1.0.161",
-    "app_name": "tama_client",
-    "client_flavor": "consumer"
-  },
   "1wkk9C4dEWpolpxD4xvTJx7QDo8ZmS4UmRKJKE2z4EE": {
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-09-30T07:13:27.772456",
-    "expires_at": "2027-09-30T07:13:27.772456",
+    "expires_at": "2027-09-30T07:52:50.087632",
     "ip": "127.0.0.1",
     "client_type": "hot_swing",
-    "client_version": "1.0.180",
-    "app_name": "hot_swing_messenger",
+    "client_version": "1.0.181",
+    "app_name": "tama_client",
     "client_flavor": ""
+  },
+  "pDSblyjnedvslJglOYmoF0N56BH2eSQvOkis3UPgNXs": {
+    "username": "김성원",
+    "role": "user",
+    "issued_at": "2026-09-30T07:52:50.201872",
+    "expires_at": "2027-09-30T07:52:50.201872",
+    "ip": "127.0.0.1",
+    "client_type": "tama_client",
+    "client_version": "1.0.180",
+    "app_name": "tama_client",
+    "client_flavor": "consumer"
   }
 }
