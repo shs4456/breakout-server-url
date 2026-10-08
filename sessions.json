@@ -366,10 +366,10 @@
     "username": "혜나",
     "role": "user",
     "issued_at": "2026-08-27T08:55:02.899734",
-    "expires_at": "2027-10-06T15:46:27.650366",
+    "expires_at": "2027-10-08T12:45:06.131753",
     "ip": "127.0.0.1",
     "client_type": "tama_client",
-    "client_version": "1.0.205",
+    "client_version": "1.0.356",
     "app_name": "tama_client",
     "client_flavor": "consumer"
   },
@@ -498,7 +498,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-09-21T11:52:17.239127",
-    "expires_at": "2027-10-07T08:53:51.860617",
+    "expires_at": "2027-10-08T12:44:58.508313",
     "ip": "127.0.0.1",
     "client_type": "admin_panel",
     "client_version": "",
@@ -509,10 +509,10 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-09-24T19:12:47.711110",
-    "expires_at": "2027-10-07T08:53:53.988042",
+    "expires_at": "2027-10-08T12:08:41.349966",
     "ip": "127.0.0.1",
     "client_type": "tama_client",
-    "client_version": "1.0.346",
+    "client_version": "1.0.358",
     "app_name": "tama_client",
     "client_flavor": "main"
   },
@@ -575,10 +575,10 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-10-02T05:57:39.461100",
-    "expires_at": "2027-10-07T08:53:52.692094",
+    "expires_at": "2027-10-08T12:45:02.946593",
     "ip": "127.0.0.1",
     "client_type": "hot_swing",
-    "client_version": "1.0.346",
+    "client_version": "1.0.358",
     "app_name": "tama_client",
     "client_flavor": ""
   },
@@ -593,14 +593,14 @@
     "app_name": "tama_client",
     "client_flavor": "consumer"
   },
-  "R_KwXaEhem42C-I4ihtt8Z7alpOhPZKd4hndoI4uNBs": {
+  "1Il50HO2Kn_mJXdsu9jmpH7x9axZXAVQiXzUp1EMoPU": {
     "username": "김성원",
     "role": "user",
-    "issued_at": "2026-10-07T08:53:54.609328",
-    "expires_at": "2027-10-07T08:53:54.609328",
+    "issued_at": "2026-10-08T12:45:06.337242",
+    "expires_at": "2027-10-08T12:45:06.337242",
     "ip": "127.0.0.1",
     "client_type": "tama_client",
-    "client_version": "1.0.346",
+    "client_version": "1.0.356",
     "app_name": "tama_client",
     "client_flavor": "consumer"
   }
