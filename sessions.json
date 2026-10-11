@@ -498,7 +498,7 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-09-21T11:52:17.239127",
-    "expires_at": "2027-10-11T01:10:34.457184",
+    "expires_at": "2027-10-12T07:51:33.606479",
     "ip": "127.0.0.1",
     "client_type": "admin_panel",
     "client_version": "",
@@ -509,10 +509,10 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-09-24T19:12:47.711110",
-    "expires_at": "2027-10-11T00:59:30.950714",
+    "expires_at": "2027-10-12T07:51:33.920590",
     "ip": "127.0.0.1",
     "client_type": "tama_client",
-    "client_version": "1.0.370",
+    "client_version": "1.0.380",
     "app_name": "tama_client",
     "client_flavor": "main"
   },
@@ -593,25 +593,14 @@
     "app_name": "tama_client",
     "client_flavor": "consumer"
   },
-  "1Il50HO2Kn_mJXdsu9jmpH7x9axZXAVQiXzUp1EMoPU": {
-    "username": "김성원",
-    "role": "user",
-    "issued_at": "2026-10-08T12:45:06.337242",
-    "expires_at": "2027-10-08T12:45:06.337242",
-    "ip": "127.0.0.1",
-    "client_type": "tama_client",
-    "client_version": "1.0.356",
-    "app_name": "tama_client",
-    "client_flavor": "consumer"
-  },
   "ekN6LsGbNAon0G-WdpKYz93bxSpn-62OuInWL-jGbvg": {
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-10-11T00:15:42.471443",
-    "expires_at": "2027-10-11T01:10:34.725989",
+    "expires_at": "2027-10-12T07:51:32.716281",
     "ip": "127.0.0.1",
     "client_type": "tama_client",
-    "client_version": "1.0.370",
+    "client_version": "1.0.381",
     "app_name": "tama_client",
     "client_flavor": "main"
   },
@@ -625,5 +614,16 @@
     "client_version": "1.0.63",
     "app_name": "hotburger_hot",
     "client_flavor": ""
+  },
+  "06zKUUqN41v0d5KcEJrLMlE6sIS9jfKIYQM3cgCij1w": {
+    "username": "김성원",
+    "role": "user",
+    "issued_at": "2026-10-12T07:51:37.035939",
+    "expires_at": "2027-10-12T07:51:37.035939",
+    "ip": "127.0.0.1",
+    "client_type": "tama_client",
+    "client_version": "1.0.356",
+    "app_name": "tama_client",
+    "client_flavor": "consumer"
   }
 }
