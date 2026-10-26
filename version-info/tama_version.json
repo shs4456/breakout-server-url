@@ -1,8 +1,8 @@
 {
-  "version": "1.0.532",
-  "setup_url": "https://github.com/shs4456/breakout-server-url/releases/download/v-pc-current/TamaSetup.exe?v=1.0.532",
-  "notes": "TOP40 graph range with existing entry criteria",
-  "sha256": "ee9fd0cf91345d044d6e195513cd234c6b513395ce3d5fdf4e1011e314602a60",
-  "size_bytes": 31595103,
+  "version": "1.0.533",
+  "setup_url": "https://github.com/shs4456/breakout-server-url/releases/download/v-pc-current/TamaSetup.exe?v=1.0.533",
+  "notes": "Buy dominance score label and speed threshold 3x",
+  "sha256": "fbfc3abfe77330b62c3fa228cc625ac59cc023c2924aecdb0f3f5d1ff31c4956",
+  "size_bytes": 31600268,
   "min_supported_version": "1.0.0"
 }
