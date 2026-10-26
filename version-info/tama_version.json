@@ -1,8 +1,8 @@
 {
-  "version": "1.0.526",
-  "setup_url": "https://github.com/shs4456/breakout-server-url/releases/download/v-pc-current/TamaSetup.exe?v=1.0.526",
-  "notes": "Consumer graph delivery update 526",
-  "sha256": "91b942532228584d3008fd31924adf31cb4ff48c3b680223125aaa25285775ea",
-  "size_bytes": 28972762,
+  "version": "1.0.527",
+  "setup_url": "https://github.com/shs4456/breakout-server-url/releases/download/v-pc-current/TamaSetup.exe?v=1.0.527",
+  "notes": "Consumer graph delivery update 527",
+  "sha256": "4807d984ec287a48b75455ec19c7d0ffb75fe4d3f8a05548afce6b394ad6c357",
+  "size_bytes": 28979952,
   "min_supported_version": "1.0.0"
 }
