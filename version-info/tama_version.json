@@ -1,8 +1,8 @@
 {
-  "version": "1.0.541",
-  "setup_url": "https://github.com/shs4456/breakout-server-url/releases/download/v-pc-current/TamaSetup.exe?v=1.0.541",
-  "notes": "Coalesce redundant table resize checks; preserve data and alert rules",
-  "sha256": "9a90a09d2b7ecdc23b367b4597dd50b6a83babe0cebf228da1a7885d87c615eb",
-  "size_bytes": 31602087,
+  "version": "1.0.542",
+  "setup_url": "https://github.com/shs4456/breakout-server-url/releases/download/v-pc-current/TamaSetup.exe?v=1.0.542",
+  "notes": "Show event-time stock and scores for siren alerts; preserve calculation and alert rules",
+  "sha256": "90f36905f6174c677e5c22e34721b2f5a34adeeded91703d2e703fdf8b2a159d",
+  "size_bytes": 31608184,
   "min_supported_version": "1.0.0"
 }
