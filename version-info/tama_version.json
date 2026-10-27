@@ -1,8 +1,8 @@
 {
-  "version": "1.0.547",
-  "setup_url": "https://github.com/shs4456/breakout-server-url/releases/download/v-pc-current/TamaSetup.exe?v=1.0.547",
-  "notes": "Show admitted live buy-dominance score and trade strength in comparison windows; preserve alarm rules and inputs",
-  "sha256": "0a68ba6ba7ef06fd821f007a97f72b78d9220e4d8d1a6e61f74efee40d6ad596",
-  "size_bytes": 31617358,
+  "version": "1.0.548",
+  "setup_url": "https://github.com/shs4456/breakout-server-url/releases/download/v-pc-current/TamaSetup.exe?v=1.0.548",
+  "notes": "Share duplicate closed-day ETF history validation; preserve cumulative values and alarm rules",
+  "sha256": "f2d2b4823f6e0a3815ba913241b5c10b0ae8b5b6243c4f58ec44a9643f09d33e",
+  "size_bytes": 31613830,
   "min_supported_version": "1.0.0"
 }
