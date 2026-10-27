@@ -1,8 +1,8 @@
 {
-  "version": "1.0.534",
-  "setup_url": "https://github.com/shs4456/breakout-server-url/releases/download/v-pc-current/TamaSetup.exe?v=1.0.534",
-  "notes": "Bounded metric reader performance and fair scheduling",
-  "sha256": "4a9d4c157bec5ad5216da574fbc2686d2bcd13ec57705a3ec7954dd1aa2eaa86",
-  "size_bytes": 31597855,
+  "version": "1.0.535",
+  "setup_url": "https://github.com/shs4456/breakout-server-url/releases/download/v-pc-current/TamaSetup.exe?v=1.0.535",
+  "notes": "Latest-point follow zoom and bounded calculation read optimization",
+  "sha256": "353f7fddafa2554b715a6a68be66acd8cf0f8e9b7416f01e756128c271a6ed87",
+  "size_bytes": 31598743,
   "min_supported_version": "1.0.0"
 }
