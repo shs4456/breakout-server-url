@@ -1,8 +1,8 @@
 {
-  "version": "1.0.537",
-  "setup_url": "https://github.com/shs4456/breakout-server-url/releases/download/v-pc-current/TamaSetup.exe?v=1.0.537",
-  "notes": "Avoid repeated unchanged graph painting and metric label styling; preserve calculations and alerts",
-  "sha256": "f71eef5a17cf8cbe7a9c521584f97b9520f62104eb57341124100485351cb74d",
-  "size_bytes": 31600008,
+  "version": "1.0.538",
+  "setup_url": "https://github.com/shs4456/breakout-server-url/releases/download/v-pc-current/TamaSetup.exe?v=1.0.538",
+  "notes": "Reduce redundant path checks and presentation serialization; preserve calculation rules and alerts",
+  "sha256": "3d1a8ca1ce8a608f686c8c1f17e3a17af83a9a0153f0e0eca05548e69b23dbea",
+  "size_bytes": 31597922,
   "min_supported_version": "1.0.0"
 }
