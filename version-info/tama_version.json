@@ -1,8 +1,8 @@
 {
-  "version": "1.0.542",
-  "setup_url": "https://github.com/shs4456/breakout-server-url/releases/download/v-pc-current/TamaSetup.exe?v=1.0.542",
+  "version": "1.0.543",
+  "setup_url": "https://github.com/shs4456/breakout-server-url/releases/download/v-pc-current/TamaSetup.exe?v=1.0.543",
   "notes": "Show event-time stock and scores for siren alerts; preserve calculation and alert rules",
-  "sha256": "90f36905f6174c677e5c22e34721b2f5a34adeeded91703d2e703fdf8b2a159d",
-  "size_bytes": 31608184,
+  "sha256": "41afad4ac66769463b559ab3a4c2cd401e12df7ce567ac7df76a85ad74d600e3",
+  "size_bytes": 31614787,
   "min_supported_version": "1.0.0"
 }
