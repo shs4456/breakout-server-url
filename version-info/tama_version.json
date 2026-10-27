@@ -1,8 +1,8 @@
 {
-  "version": "1.0.545",
-  "setup_url": "https://github.com/shs4456/breakout-server-url/releases/download/v-pc-current/TamaSetup.exe?v=1.0.545",
-  "notes": "Fix strength alarm sampling continuity and expire stale display values; preserve thresholds and stored inputs",
-  "sha256": "11dd66ac689844037a16557f59ffcdfe03c40b26bc2ec5d99dce03f831c3d0cf",
-  "size_bytes": 31614325,
+  "version": "1.0.546",
+  "setup_url": "https://github.com/shs4456/breakout-server-url/releases/download/v-pc-current/TamaSetup.exe?v=1.0.546",
+  "notes": "Color verified carry graphs relative to previous-day cumulative and fit vertical range; preserve stored values and alerts",
+  "sha256": "1c4f25142987ef3530876cbf10ee75d8dd3687430516bba1e969e009b1d7c274",
+  "size_bytes": 31618975,
   "min_supported_version": "1.0.0"
 }
