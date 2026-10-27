@@ -1,8 +1,8 @@
 {
-  "version": "1.0.540",
-  "setup_url": "https://github.com/shs4456/breakout-server-url/releases/download/v-pc-current/TamaSetup.exe?v=1.0.540",
-  "notes": "Reduce redundant display copies and unchanged card layout work; preserve calculations and alert rules",
-  "sha256": "52faaa2aa17a553e6e045e2fafa12c04c45c400b6df1e5b7d2a5bd93fce544d6",
-  "size_bytes": 31604059,
+  "version": "1.0.541",
+  "setup_url": "https://github.com/shs4456/breakout-server-url/releases/download/v-pc-current/TamaSetup.exe?v=1.0.541",
+  "notes": "Coalesce redundant table resize checks; preserve data and alert rules",
+  "sha256": "9a90a09d2b7ecdc23b367b4597dd50b6a83babe0cebf228da1a7885d87c615eb",
+  "size_bytes": 31602087,
   "min_supported_version": "1.0.0"
 }
