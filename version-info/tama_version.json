@@ -1,7 +1,7 @@
 {
   "version": "1.0.548",
   "setup_url": "https://github.com/shs4456/breakout-server-url/releases/download/v-pc-current/TamaSetup.exe?v=1.0.548",
-  "notes": "Share duplicate closed-day ETF history validation; preserve cumulative values and alarm rules",
+  "notes": "Auto-uploaded via BreakoutCenter @ 2026-10-28 07:59:16",
   "sha256": "f2d2b4823f6e0a3815ba913241b5c10b0ae8b5b6243c4f58ec44a9643f09d33e",
   "size_bytes": 31613830,
   "min_supported_version": "1.0.0"
