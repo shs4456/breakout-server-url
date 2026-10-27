@@ -1,8 +1,8 @@
 {
-  "version": "1.0.543",
-  "setup_url": "https://github.com/shs4456/breakout-server-url/releases/download/v-pc-current/TamaSetup.exe?v=1.0.543",
-  "notes": "Show event-time stock and scores for siren alerts; preserve calculation and alert rules",
-  "sha256": "41afad4ac66769463b559ab3a4c2cd401e12df7ce567ac7df76a85ad74d600e3",
-  "size_bytes": 31614787,
+  "version": "1.0.544",
+  "setup_url": "https://github.com/shs4456/breakout-server-url/releases/download/v-pc-current/TamaSetup.exe?v=1.0.544",
+  "notes": "Replace speed display and alarms with received trade strength; 150 percent plus buy dominance for 3 seconds, 180 second cooldown",
+  "sha256": "3e21b2ce31431f16880c14fe5d2391d2804ff6cab2dbc90691a35c857c41adc9",
+  "size_bytes": 31618240,
   "min_supported_version": "1.0.0"
 }
