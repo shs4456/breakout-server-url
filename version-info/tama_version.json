@@ -1,8 +1,8 @@
 {
-  "version": "1.0.546",
-  "setup_url": "https://github.com/shs4456/breakout-server-url/releases/download/v-pc-current/TamaSetup.exe?v=1.0.546",
-  "notes": "Color verified carry graphs relative to previous-day cumulative and fit vertical range; preserve stored values and alerts",
-  "sha256": "1c4f25142987ef3530876cbf10ee75d8dd3687430516bba1e969e009b1d7c274",
-  "size_bytes": 31618975,
+  "version": "1.0.547",
+  "setup_url": "https://github.com/shs4456/breakout-server-url/releases/download/v-pc-current/TamaSetup.exe?v=1.0.547",
+  "notes": "Show admitted live buy-dominance score and trade strength in comparison windows; preserve alarm rules and inputs",
+  "sha256": "0a68ba6ba7ef06fd821f007a97f72b78d9220e4d8d1a6e61f74efee40d6ad596",
+  "size_bytes": 31617358,
   "min_supported_version": "1.0.0"
 }
