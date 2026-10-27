@@ -1,8 +1,8 @@
 {
-  "version": "1.0.544",
-  "setup_url": "https://github.com/shs4456/breakout-server-url/releases/download/v-pc-current/TamaSetup.exe?v=1.0.544",
-  "notes": "Replace speed display and alarms with received trade strength; 150 percent plus buy dominance for 3 seconds, 180 second cooldown",
-  "sha256": "3e21b2ce31431f16880c14fe5d2391d2804ff6cab2dbc90691a35c857c41adc9",
-  "size_bytes": 31618240,
+  "version": "1.0.545",
+  "setup_url": "https://github.com/shs4456/breakout-server-url/releases/download/v-pc-current/TamaSetup.exe?v=1.0.545",
+  "notes": "Fix strength alarm sampling continuity and expire stale display values; preserve thresholds and stored inputs",
+  "sha256": "11dd66ac689844037a16557f59ffcdfe03c40b26bc2ec5d99dce03f831c3d0cf",
+  "size_bytes": 31614325,
   "min_supported_version": "1.0.0"
 }
