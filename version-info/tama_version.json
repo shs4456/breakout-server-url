@@ -1,8 +1,8 @@
 {
-  "version": "1.0.549",
-  "setup_url": "https://github.com/shs4456/breakout-server-url/releases/download/v-pc-current/TamaSetup.exe?v=1.0.549",
-  "notes": "Reduce per-graph carry validation; preserve cumulative values, inputs and alarm rules",
-  "sha256": "c0cc532be505c1c3da6d96bb0ceb7d15d5cc43ee3c094e1a29ac215e5b860f6d",
-  "size_bytes": 31616241,
+  "version": "1.0.550",
+  "setup_url": "https://github.com/shs4456/breakout-server-url/releases/download/v-pc-current/TamaSetup.exe?v=1.0.550",
+  "notes": "Reduce duplicate comparison context reads; preserve permission, values and alarm rules",
+  "sha256": "0ab935465ed72d43cf49b4c976e2b71668146776565e0118fd1808fab97a117c",
+  "size_bytes": 31614991,
   "min_supported_version": "1.0.0"
 }
