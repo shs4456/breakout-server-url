@@ -1,8 +1,8 @@
 {
-  "version": "1.0.536",
-  "setup_url": "https://github.com/shs4456/breakout-server-url/releases/download/v-pc-current/TamaSetup.exe?v=1.0.536",
-  "notes": "Reduced repeated metric calculation and guarded server export read timing",
-  "sha256": "d31e2274134ff4de2f285c4aef3b64350af7932d1bd88c5c12b9176f1b21fb2b",
-  "size_bytes": 31599327,
+  "version": "1.0.537",
+  "setup_url": "https://github.com/shs4456/breakout-server-url/releases/download/v-pc-current/TamaSetup.exe?v=1.0.537",
+  "notes": "Avoid repeated unchanged graph painting and metric label styling; preserve calculations and alerts",
+  "sha256": "f71eef5a17cf8cbe7a9c521584f97b9520f62104eb57341124100485351cb74d",
+  "size_bytes": 31600008,
   "min_supported_version": "1.0.0"
 }
