@@ -1,8 +1,8 @@
 {
-  "version": "1.0.539",
-  "setup_url": "https://github.com/shs4456/breakout-server-url/releases/download/v-pc-current/TamaSetup.exe?v=1.0.539",
-  "notes": "Isolate operator metric computation from GUI CPU contention; preserve source and alert rules",
-  "sha256": "ba9ff6cdf8ac9601e5cac165213173c1a27bfb535fcca3f3b01fc488e69d6ad0",
-  "size_bytes": 31602166,
+  "version": "1.0.540",
+  "setup_url": "https://github.com/shs4456/breakout-server-url/releases/download/v-pc-current/TamaSetup.exe?v=1.0.540",
+  "notes": "Reduce redundant display copies and unchanged card layout work; preserve calculations and alert rules",
+  "sha256": "52faaa2aa17a553e6e045e2fafa12c04c45c400b6df1e5b7d2a5bd93fce544d6",
+  "size_bytes": 31604059,
   "min_supported_version": "1.0.0"
 }
