@@ -1,8 +1,8 @@
 {
-  "version": "1.0.552",
-  "setup_url": "https://github.com/shs4456/breakout-server-url/releases/download/v-pc-current/TamaSetup.exe?v=1.0.552",
-  "notes": "Fix missing TOP40 consumer graphs using verified existing ALL receipt evidence; preserve values, gaps and alarm rules",
-  "sha256": "9840169a5652a2ec6dee23be4f0cec16898b37dd3808695d628ad0217cc578a6",
-  "size_bytes": 31615373,
+  "version": "1.0.554",
+  "setup_url": "https://github.com/shs4456/breakout-server-url/releases/download/v-pc-current/TamaSetup.exe?v=1.0.554",
+  "notes": "Reduce final graph presentation copy and serialization cost; includes verified archive paging and popularity comparison; preserve values and alarm rules",
+  "sha256": "cf1bcb1a80d9513e8cfaa5ba144bd42e4d71843b14326fe185f9d6b749bc9ce2",
+  "size_bytes": 31632636,
   "min_supported_version": "1.0.0"
 }
