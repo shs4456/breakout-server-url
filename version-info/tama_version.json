@@ -1,8 +1,8 @@
 {
-  "version": "1.0.597",
-  "setup_url": "https://github.com/shs4456/breakout-server-url/releases/download/v-pc-current/TamaSetup.exe?v=1.0.597",
-  "notes": "597: 오늘 자료가 없어도 기존 로그인·권한 확인을 거쳐 전 거래일 그래프를 열 수 있도록 보완했습니다. 기존 계산·저장·입력값은 유지합니다.",
-  "sha256": "af591d56251ed9c5bd66dee15ff2589c58ce7ccab3d18460c59338967cf69ec9",
-  "size_bytes": 31705849,
+  "version": "1.0.598",
+  "setup_url": "https://github.com/shs4456/breakout-server-url/releases/download/v-pc-current/TamaSetup.exe?v=1.0.598",
+  "notes": "Auto-uploaded via BreakoutCenter @ 2026-11-02 07:50:45",
+  "sha256": "82c8cb4a5ff9d1dea9441194583effe41217fbeb22d1028570a134a25c2f26c5",
+  "size_bytes": 31708589,
   "min_supported_version": "1.0.0"
 }
