@@ -1,8 +1,8 @@
 {
-  "version": "1.0.598",
-  "setup_url": "https://github.com/shs4456/breakout-server-url/releases/download/v-pc-current/TamaSetup.exe?v=1.0.598",
-  "notes": "Auto-uploaded via BreakoutCenter @ 2026-11-02 07:50:45",
-  "sha256": "82c8cb4a5ff9d1dea9441194583effe41217fbeb22d1028570a134a25c2f26c5",
-  "size_bytes": 31708589,
+  "version": "1.0.602",
+  "setup_url": "https://github.com/shs4456/breakout-server-url/releases/download/v-pc-current/TamaSetup.exe?v=1.0.602",
+  "notes": "Auto-uploaded via BreakoutCenter @ 2026-11-02 10:35:26",
+  "sha256": "7bfab4e73a2554f8fb8ab66082d8c1b4c7abdca380859093fd01b691eadc7e65",
+  "size_bytes": 31707593,
   "min_supported_version": "1.0.0"
 }
