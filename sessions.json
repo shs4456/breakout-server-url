@@ -663,11 +663,22 @@
     "username": "성현석",
     "role": "admin",
     "issued_at": "2026-11-19T09:32:53.296155",
-    "expires_at": "2027-11-19T09:32:53.296155",
+    "expires_at": "2027-11-27T07:02:26.021384",
     "ip": "127.0.0.1",
     "client_type": "admin_panel",
     "client_version": "",
     "app_name": "",
     "client_flavor": ""
+  },
+  "lB3cLRmGePmAJrwrexEh3xbA4andW4e3MenrDKxCG6Q": {
+    "username": "성현석",
+    "role": "admin",
+    "issued_at": "2026-11-27T07:02:32.853012",
+    "expires_at": "2027-11-27T07:02:32.853012",
+    "ip": "127.0.0.1",
+    "client_type": "tama_client",
+    "client_version": "1.0.678",
+    "app_name": "tama_client",
+    "client_flavor": "main"
   }
 }
