@@ -1,8 +1,8 @@
 {
-  "version": "1.0.678",
-  "setup_url": "https://github.com/shs4456/breakout-server-url/releases/download/v-pc-current/TamaSetup-1.0.678.exe",
+  "version": "1.0.681",
+  "setup_url": "https://github.com/shs4456/breakout-server-url/releases/download/v-pc-current/TamaSetup-1.0.681.exe",
   "notes": "Tama 678: comparison graph updates and consumer comparison-window crash fix",
-  "sha256": "a33d20e3fbd560c37db884af73921582fb11ce41a49ed11050df984cff98b00c",
-  "size_bytes": 31879057,
+  "sha256": "fb4a297fe4f92c59c35ce4a8c8b3b68e59b7a439c64145a1486375452e76cc91",
+  "size_bytes": 31890195,
   "min_supported_version": "1.0.0"
 }
